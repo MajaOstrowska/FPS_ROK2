@@ -2057,3 +2057,597 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2023.05.13-11.28.24:130][432]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.27 sec (total: 29.7 sec)
 [2023.05.13-11.28.24:170][432]AssetCheck: New page: Asset Save: MO_Level
 [2023.05.13-11.28.24:170][432]LogContentValidation: Display: Validating /Script/Engine.World /Game/ModularBuildingSet/MO_Level.MO_Level
+[2023.05.13-11.31.13:148][941]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.13-11.31.13:513][941]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.13-11.31.13:528][942]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.13-11.31.19:140][970]LogContentBrowser: Attempting asset rename: NewFolder -> Animation
+[2023.05.13-11.31.19:140][970]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.13-11.32.11:844][138]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Assets/Characters/Arms/Mesh/Mesh_Arms.Mesh_Arms
+[2023.05.13-11.32.12:101][138]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.13-11.32.12:258][138]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2023.05.13-11.32.12:330][138]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2023.05.13-11.32.12:579][138]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.13-11.32.12:598][138]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Gun) ...
+[2023.05.13-11.32.12:931][138]LogTexture: Display: Building textures: /Game/Assets/Gun/Textures/4K_Textures/T_Handle_and_Addons_Height.T_Handle_and_Addons_Height (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.05.13-11.32.12:949][138]LogTexture: Display: Building textures: /Game/Assets/Gun/Textures/4K_Textures/T_Handle_and_Adons_Metallic.T_Handle_and_Adons_Metallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.05.13-11.32.12:985][138]LogTexture: Display: Building textures: /Game/Assets/Gun/Textures/4K_Textures/T_Handle_and_Adons_Mixed_AO.T_Handle_and_Adons_Mixed_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.05.13-11.32.13:027][138]LogTexture: Display: Building textures: /Game/Assets/Gun/Textures/4K_Textures/T_Handle_and_Adons_Emissive.T_Handle_and_Adons_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.05.13-11.32.13:031][138]LogTexture: Display: Building textures: /Game/Assets/Gun/Textures/4K_Textures/T_Handle_and_Adons_Roughness.T_Handle_and_Adons_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.05.13-11.32.13:453][138]LogTexture: Display: Building textures: /Game/Assets/Gun/Textures/4K_Textures/T_Handle_and_Adons_Base_Color_update.T_Handle_and_Adons_Base_Color_update (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.05.13-11.32.13:593][138]LogTexture: Display: Building textures: /Game/Assets/Gun/Textures/4K_Textures/T_Handle_and_Adons_Normal_OpenGL.T_Handle_and_Adons_Normal_OpenGL (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.05.13-11.32.13:827][138]LogMeshUtilities: Finished distance field build in 1.5s - 126x126x21 sparse distance field, 0.5Mb total, 0.0Mb always loaded, 80% occupied, 3 triangles, Floor_Mesh
+[2023.05.13-11.32.13:827][138]LogSkeletalMesh: Building Skeletal Mesh Gun...
+[2023.05.13-11.32.13:847][138]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2023.05.13-11.32.13:918][138]LogSkeletalMesh: Built Skeletal Mesh [0.09s] /Game/Assets/Gun/Gun.Gun
+[2023.05.13-11.32.14:747][138]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.000930s (0.903453s overbudget)
+[2023.05.13-11.32.15:337][138]LogTexture: Display: Building textures: /Game/Assets/Gun/Textures/4K_Textures/T_Barrel_Mixed_AO.T_Barrel_Mixed_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.05.13-11.32.15:338][138]LogTexture: Display: Building textures: /Game/Assets/Gun/Textures/4K_Textures/T_Barrel_Metallic.T_Barrel_Metallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display: ================================================
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display: Total job queries 437, among them cache hits 138 (31.58%)
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display: Tracking 299 distinct input hashes that result in 170 distinct outputs (56.86%)
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display: RAM used: 0.66 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.04%
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display: Shaders Compiled: 299
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display: Jobs assigned 299, completed 299 (100.00%)
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display: Average time worker was idle: 91.13 s
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display: Time job spent in pending queue: average 8.03 s, longest 20.59 s
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display: Job execution time: average 1.07 s, max 5.58 s
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display: Job life time (pending + execution): average 9.10 s, max 22.75
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 47.89 s
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display: Jobs were issued in 299 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display: Average processing rate: 6.24 jobs/sec
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display: Total thread time: 264.83 s
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display: Total thread preprocess time: 17.59 s
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display: Percentage time preprocessing: 6.64%
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display: Effective parallelization: 5.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   36 times, average 1.55 sec, max 3.83 sec, min 0.69 sec)
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   50 times, average 1.41 sec, max 5.47 sec, min 0.58 sec)
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   50 times, average 1.01 sec, max 1.96 sec, min 0.54 sec)
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    6 times, average 0.76 sec, max 0.82 sec, min 0.71 sec)
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS (compiled    4 times, average 0.74 sec, max 0.76 sec, min 0.71 sec)
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.65% of total time (compiled   50 times, average 1.41 sec, max 5.47 sec, min 0.58 sec)
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 21.13% of total time (compiled   36 times, average 1.55 sec, max 3.83 sec, min 0.69 sec)
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.98% of total time (compiled   50 times, average 1.01 sec, max 1.96 sec, min 0.54 sec)
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.83% of total time (compiled   39 times, average 0.74 sec, max 1.76 sec, min 0.49 sec)
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.88% of total time (compiled   39 times, average 0.47 sec, max 1.66 sec, min 0.32 sec)
+[2023.05.13-11.32.15:384][138]LogShaderCompilers: Display: ================================================
+[2023.05.13-11.32.15:503][138]LogTexture: Display: Building textures: /Game/Assets/Gun/Textures/4K_Textures/T_Reload_Barrle_Metallic.T_Reload_Barrle_Metallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.05.13-11.32.15:508][138]LogTexture: Display: Building textures: /Game/Assets/Gun/Textures/4K_Textures/T_Reload_Barrle_Height.T_Reload_Barrle_Height (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.05.13-11.32.15:509][138]LogTexture: Display: Building textures: /Game/Assets/Gun/Textures/4K_Textures/T_Barrel_Roughness.T_Barrel_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.05.13-11.32.15:583][138]LogViewport: Scene viewport resized to 1141x866, mode Windowed.
+[2023.05.13-11.32.15:649][138]LogTexture: Display: Building textures: /Game/Assets/Gun/Textures/4K_Textures/T_Barrel_Base_Color.T_Barrel_Base_Color (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.05.13-11.32.15:792][139]LogTexture: Display: Building textures: /Game/Assets/Gun/Textures/4K_Textures/T_Reload_Barrle_Base_Color.T_Reload_Barrle_Base_Color (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.05.13-11.32.15:931][139]LogTexture: Display: Building textures: /Game/Assets/Gun/Textures/4K_Textures/T_Barrel_Normal_OpenGL.T_Barrel_Normal_OpenGL (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.05.13-11.32.17:954][143]LogTexture: Display: Building textures: /Game/Assets/Gun/Textures/4K_Textures/T_Reload_Barrle_Mixed_AO.T_Reload_Barrle_Mixed_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.05.13-11.32.18:107][143]LogTexture: Display: Building textures: /Game/Assets/Gun/Textures/4K_Textures/T_Reload_Barrle_Roughness.T_Reload_Barrle_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.05.13-11.32.18:240][143]LogTexture: Display: Building textures: /Game/Assets/Gun/Textures/4K_Textures/T_Main_Body_Metallic.T_Main_Body_Metallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.05.13-11.32.18:253][143]LogTexture: Display: Building textures: /Game/Assets/Gun/Textures/4K_Textures/T_Main_Body_Mixed_AO.T_Main_Body_Mixed_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.05.13-11.32.18:404][143]LogTexture: Display: Building textures: /Game/Assets/Gun/Textures/4K_Textures/T_Reload_Barrle_Normal_OpenGL.T_Reload_Barrle_Normal_OpenGL (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.05.13-11.32.18:506][143]LogTexture: Display: Building textures: /Game/Assets/Gun/Textures/4K_Textures/T_Main_Body_Base_Color.T_Main_Body_Base_Color (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.05.13-11.32.18:570][143]LogTexture: Display: Building textures: /Game/Assets/Gun/Textures/4K_Textures/T_Handle_and_Addons_Base_Color.T_Handle_and_Addons_Base_Color (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.05.13-11.32.18:851][144]LogTexture: Display: Building textures: /Game/Assets/Gun/Textures/4K_Textures/T_Main_Body_Normal_OpenGL_worntext.T_Main_Body_Normal_OpenGL_worntext (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.05.13-11.32.20:928][147]LogTexture: Display: Building textures: /Game/Assets/Gun/Textures/4K_Textures/T_Stock_Metallic_-_Copy.T_Stock_Metallic_-_Copy (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.05.13-11.32.20:945][147]LogTexture: Display: Building textures: /Game/Assets/Gun/Textures/4K_Textures/T_Main_Body_Roughness.T_Main_Body_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.05.13-11.32.21:083][147]LogTexture: Display: Building textures: /Game/Assets/Gun/Textures/4K_Textures/T_Stock_Mixed_AO.T_Stock_Mixed_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.05.13-11.32.21:164][147]LogTexture: Display: Building textures: /Game/Assets/Gun/Textures/4K_Textures/T_Stock_Roughness.T_Stock_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.05.13-11.32.21:250][147]LogTexture: Display: Building textures: /Game/Assets/Gun/Textures/4K_Textures/T_Stock_Base_Color_Base_Color.T_Stock_Base_Color_Base_Color (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.05.13-11.32.21:594][148]LogTexture: Display: Building textures: /Game/Assets/Gun/Textures/4K_Textures/T_Stock_Normal_OpenGL.T_Stock_Normal_OpenGL (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.05.13-11.32.23:490][151]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Assets/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton.SK_Mannequin_Arms_Skeleton
+[2023.05.13-11.32.23:581][151]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.13-11.32.23:595][151]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.13-11.32.23:766][151]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.13-11.32.23:961][151]LogViewport: Scene viewport resized to 1141x866, mode Windowed.
+[2023.05.13-11.32.43:891][261]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.05.13-11.32.43:891][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.13-11.32.43:945][261]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.05.13-11.32.43:945][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.13-11.32.44:938][267]LogSlate: Window 'Mesh_Arms' being destroyed
+[2023.05.13-11.32.44:983][267]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.05.13-11.32.44:983][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.13-11.32.55:306][316]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.13-11.32.55:306][316]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.13-11.32.55:306][316]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.13-11.32.55:468][316]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.13-11.33.00:947][316]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2023.05.13-11.33.00:953][316]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2023.05.13-11.33.00:956][316]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2023.05.13-11.33.01:092][318]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2023.05.13-11.33.12:152][353]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> NewAnimBlueprint
+[2023.05.13-11.33.12:276][353]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2023.05.13-11.33.46:561][503]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> A_IdleWalk
+[2023.05.13-11.33.47:605][503]LogMetaData: Removing '/Game/Animation/A_IdleWalk.A_IdleWalk:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Animation/NewAnimBlueprint.PackageMetaData'
+[2023.05.13-11.33.47:605][503]LogMetaData: Removing '/Game/Animation/A_IdleWalk.SKEL_A_IdleWalk_C:AnimGraph' ref from Metadata '/Game/Animation/NewAnimBlueprint.PackageMetaData'
+[2023.05.13-11.33.47:605][503]LogMetaData: Removing '/Game/Animation/A_IdleWalk.SKEL_A_IdleWalk_C' ref from Metadata '/Game/Animation/NewAnimBlueprint.PackageMetaData'
+[2023.05.13-11.33.47:605][503]LogMetaData: Removing '/Game/Animation/A_IdleWalk.A_IdleWalk_C:AnimGraph' ref from Metadata '/Game/Animation/NewAnimBlueprint.PackageMetaData'
+[2023.05.13-11.33.47:605][503]LogMetaData: Removing '/Game/Animation/A_IdleWalk.A_IdleWalk_C' ref from Metadata '/Game/Animation/NewAnimBlueprint.PackageMetaData'
+[2023.05.13-11.33.47:605][503]LogMetaData: Removing '/Game/Animation/A_IdleWalk.A_IdleWalk:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Animation/NewAnimBlueprint.PackageMetaData'
+[2023.05.13-11.33.47:605][503]LogMetaData: Removing '/Game/Animation/A_IdleWalk.A_IdleWalk:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/Animation/NewAnimBlueprint.PackageMetaData'
+[2023.05.13-11.33.47:654][503]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.13-11.33.47:960][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/A_IdleWalk" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset" SILENT=true
+[2023.05.13-11.33.47:996][503]LogSavePackage: Moving output files for package: /Game/Animation/A_IdleWalk
+[2023.05.13-11.33.47:996][503]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/A_IdleWalk043BA6BE4A8B16E124EBECBE14D786A7.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset'
+[2023.05.13-11.33.48:002][503]LogFileHelpers: InternalPromptForCheckoutAndSave took 348 ms (total: 30.0 sec)
+[2023.05.13-11.33.48:091][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.05.13-11.33.48:136][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.05.13-11.33.48:176][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.05.13-11.33.48:184][503]AssetCheck: New page: Asset Save: A_IdleWalk
+[2023.05.13-11.33.48:184][503]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk
+[2023.05.13-11.33.51:120][514]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.13-11.33.52:043][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.05.13-11.33.53:891][514]LogSavePackage: Moving output files for package: /Game/ModularBuildingSet/MO_Level
+[2023.05.13-11.33.53:891][514]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/MO_LevelC7FD5D334F87A629881B7DACB465EF5C.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/ModularBuildingSet/MO_Level.umap'
+[2023.05.13-11.33.53:942][514]LogFileHelpers: Saving map 'MO_Level' took 1.949
+[2023.05.13-11.33.53:946][514]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.82 sec (total: 32.8 sec)
+[2023.05.13-11.33.53:985][514]AssetCheck: New page: Asset Save: MO_Level
+[2023.05.13-11.33.53:985][514]LogContentValidation: Display: Validating /Script/Engine.World /Game/ModularBuildingSet/MO_Level.MO_Level
+[2023.05.13-11.34.19:115][596]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk
+[2023.05.13-11.34.19:466][596]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.13-11.34.19:516][596]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.13-11.34.19:545][596]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.13-11.34.20:584][596]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.13-11.34.20:737][596]LogViewport: Scene viewport resized to 476x413, mode Windowed.
+[2023.05.13-11.35.10:288][751]LogViewport: Scene viewport resized to 475x424, mode Windowed.
+[2023.05.13-11.35.10:914][753]LogViewport: Scene viewport resized to 476x413, mode Windowed.
+[2023.05.13-11.35.12:158][789]LogSlate: Window 'A_IdleWalk' being destroyed
+[2023.05.13-11.35.18:758][419]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2023.05.13-11.35.18:799][419]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.13-11.35.18:799][419]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.13-11.35.18:799][419]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.13-11.35.21:626][719]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.05.13-11.35.21:783][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.05.13-11.35.22:790][820]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.13-11.35.22:896][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPS_Character" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset" SILENT=true
+[2023.05.13-11.35.22:903][820]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FPS_Character
+[2023.05.13-11.35.22:903][820]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_CharacterF243734544FD821E3C870AA375D28A40.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset'
+[2023.05.13-11.35.22:909][820]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 32.9 sec)
+[2023.05.13-11.35.22:919][820]AssetCheck: New page: Asset Save: BP_FPS_Character
+[2023.05.13-11.35.22:919][820]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character
+[2023.05.13-11.35.23:382][868]LogViewport: Scene viewport resized to 448x196, mode Windowed.
+[2023.05.13-11.38.28:149][581]LogDerivedDataCache: C:/Users/majao/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:22.050 and deleted 0 files with total size 0 MiB. Scanned 15535 files in 7375 folders with total size 2788 MiB.
+[2023.05.13-11.39.58:139][693]LogSlate: Took 0.012971 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.05.13-11.41.32:044][302]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.13-11.41.32:183][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/A_IdleWalk" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset" SILENT=true
+[2023.05.13-11.41.32:190][302]LogSavePackage: Moving output files for package: /Game/Animation/A_IdleWalk
+[2023.05.13-11.41.32:191][302]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/A_IdleWalkC5EE030E4E4ED842A2B7F982EB3166F9.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset'
+[2023.05.13-11.41.32:196][302]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 33.1 sec)
+[2023.05.13-11.41.32:208][302]AssetCheck: New page: Asset Save: A_IdleWalk
+[2023.05.13-11.41.32:208][302]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk
+[2023.05.13-11.41.33:762][363]BlueprintLog: New page: Compile A_IdleWalk
+[2023.05.13-11.41.34:013][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.05.13-11.41.34:795][393]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.13-11.41.34:881][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/A_IdleWalk" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset" SILENT=true
+[2023.05.13-11.41.34:888][393]LogSavePackage: Moving output files for package: /Game/Animation/A_IdleWalk
+[2023.05.13-11.41.34:888][393]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/A_IdleWalk150FC21641FCEFEB834F4BAE8E2D4C40.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset'
+[2023.05.13-11.41.34:894][393]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 33.2 sec)
+[2023.05.13-11.41.34:903][393]AssetCheck: New page: Asset Save: A_IdleWalk
+[2023.05.13-11.41.34:903][393]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk
+[2023.05.13-11.42.09:544][608]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.05.13-11.42.11:720][733]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2023.05.13-11.42.21:975][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.13-11.42.22:080][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/A_IdleWalk" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset" SILENT=true
+[2023.05.13-11.42.22:087][ 67]LogSavePackage: Moving output files for package: /Game/Animation/A_IdleWalk
+[2023.05.13-11.42.22:088][ 67]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/A_IdleWalk567D831F4AA16AE995DBE0988AF4B41D.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset'
+[2023.05.13-11.42.22:095][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 33.3 sec)
+[2023.05.13-11.42.22:105][ 67]AssetCheck: New page: Asset Save: A_IdleWalk
+[2023.05.13-11.42.22:105][ 67]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk
+[2023.05.13-11.42.31:449][498]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Armor_On...
+[2023.05.13-11.42.31:449][498]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Armor_On_2...
+[2023.05.13-11.42.31:449][498]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Movement_Foley_4...
+[2023.05.13-11.42.31:472][498]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Arms/Arms_Animations/Arms_Walk.Arms_Walk
+[2023.05.13-11.42.31:484][498]LogAudio: Display: Chunk size for SoundWave /Game/Assets/Sounds/Walking/Movement_Foley_4.Movement_Foley_4: 262144
+[2023.05.13-11.42.31:492][498]LogAudio: Display: Chunk size for SoundWave /Game/Assets/Sounds/Walking/Armor_On.Armor_On: 262144
+[2023.05.13-11.42.31:493][498]LogAudio: Display: Chunk size for SoundWave /Game/Assets/Sounds/Walking/Armor_On_2.Armor_On_2: 262144
+[2023.05.13-11.42.43:020][684]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.13-11.42.43:129][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/A_IdleWalk" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset" SILENT=true
+[2023.05.13-11.42.43:138][684]LogSavePackage: Moving output files for package: /Game/Animation/A_IdleWalk
+[2023.05.13-11.42.43:139][684]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/A_IdleWalkAC1CF02A4460042BA4108692CC8C8780.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset'
+[2023.05.13-11.42.43:145][684]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 33.4 sec)
+[2023.05.13-11.42.43:157][684]AssetCheck: New page: Asset Save: A_IdleWalk
+[2023.05.13-11.42.43:157][684]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk
+[2023.05.13-11.45.19:459][204]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.13-11.45.19:555][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/A_IdleWalk" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset" SILENT=true
+[2023.05.13-11.45.19:917][204]LogSavePackage: Moving output files for package: /Game/Animation/A_IdleWalk
+[2023.05.13-11.45.19:917][204]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/A_IdleWalk94BFB9AF4CB35C2A752095BFA4E96F75.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset'
+[2023.05.13-11.45.19:923][204]LogFileHelpers: InternalPromptForCheckoutAndSave took 464 ms (total: 33.9 sec)
+[2023.05.13-11.45.19:934][204]AssetCheck: New page: Asset Save: A_IdleWalk
+[2023.05.13-11.45.19:934][204]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk
+[2023.05.13-11.45.22:784][341]BlueprintLog: New page: Compile A_IdleWalk
+[2023.05.13-11.45.22:804][341]LogBlueprint: Warning: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Animation\A_IdleWalk.uasset: [Compiler] Idle to Walking  will never be taken, please connect something to  Can Enter Transition
+[2023.05.13-11.45.22:804][341]LogBlueprint: Warning: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Animation\A_IdleWalk.uasset: [Compiler] Walking to Idle  will never be taken, please connect something to  Can Enter Transition
+[2023.05.13-11.45.22:968][341]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.05.13-11.45.22:997][341]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	A_IdleWalk_C /Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.A_IdleWalk_C_0
+	Function /Game/Animation/A_IdleWalk.A_IdleWalk_C:ExecuteUbergraph_A_IdleWalk:0040
+[2023.05.13-11.45.23:065][343]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	A_IdleWalk_C /Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.A_IdleWalk_C_0
+	Function /Game/Animation/A_IdleWalk.A_IdleWalk_C:ExecuteUbergraph_A_IdleWalk:0040
+[2023.05.13-11.45.23:073][344]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	A_IdleWalk_C /Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.A_IdleWalk_C_0
+	Function /Game/Animation/A_IdleWalk.A_IdleWalk_C:ExecuteUbergraph_A_IdleWalk:0040
+[2023.05.13-11.45.23:082][345]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	A_IdleWalk_C /Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.A_IdleWalk_C_0
+	Function /Game/Animation/A_IdleWalk.A_IdleWalk_C:ExecuteUbergraph_A_IdleWalk:0040
+[2023.05.13-11.45.23:106][346]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	A_IdleWalk_C /Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.A_IdleWalk_C_0
+	Function /Game/Animation/A_IdleWalk.A_IdleWalk_C:ExecuteUbergraph_A_IdleWalk:0040
+[2023.05.13-11.45.23:125][347]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	A_IdleWalk_C /Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.A_IdleWalk_C_0
+	Function /Game/Animation/A_IdleWalk.A_IdleWalk_C:ExecuteUbergraph_A_IdleWalk:0040
+[2023.05.13-11.45.23:145][348]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	A_IdleWalk_C /Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.A_IdleWalk_C_0
+	Function /Game/Animation/A_IdleWalk.A_IdleWalk_C:ExecuteUbergraph_A_IdleWalk:0040
+[2023.05.13-11.45.23:165][349]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	A_IdleWalk_C /Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.A_IdleWalk_C_0
+	Function /Game/Animation/A_IdleWalk.A_IdleWalk_C:ExecuteUbergraph_A_IdleWalk:0040
+[2023.05.13-11.45.23:185][350]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	A_IdleWalk_C /Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.A_IdleWalk_C_0
+	Function /Game/Animation/A_IdleWalk.A_IdleWalk_C:ExecuteUbergraph_A_IdleWalk:0040
+[2023.05.13-11.45.23:205][351]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	A_IdleWalk_C /Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.A_IdleWalk_C_0
+	Function /Game/Animation/A_IdleWalk.A_IdleWalk_C:ExecuteUbergraph_A_IdleWalk:0040
+[2023.05.13-11.45.23:223][352]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	A_IdleWalk_C /Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.A_IdleWalk_C_0
+	Function /Game/Animation/A_IdleWalk.A_IdleWalk_C:ExecuteUbergraph_A_IdleWalk:0040
+[2023.05.13-11.45.23:243][353]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	A_IdleWalk_C /Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.A_IdleWalk_C_0
+	Function /Game/Animation/A_IdleWalk.A_IdleWalk_C:ExecuteUbergraph_A_IdleWalk:0040
+[2023.05.13-11.45.23:263][354]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	A_IdleWalk_C /Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.A_IdleWalk_C_0
+	Function /Game/Animation/A_IdleWalk.A_IdleWalk_C:ExecuteUbergraph_A_IdleWalk:0040
+[2023.05.13-11.45.23:282][355]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	A_IdleWalk_C /Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.A_IdleWalk_C_0
+	Function /Game/Animation/A_IdleWalk.A_IdleWalk_C:ExecuteUbergraph_A_IdleWalk:0040
+[2023.05.13-11.45.23:302][356]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	A_IdleWalk_C /Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.A_IdleWalk_C_0
+	Function /Game/Animation/A_IdleWalk.A_IdleWalk_C:ExecuteUbergraph_A_IdleWalk:0040
+[2023.05.13-11.45.23:322][357]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	A_IdleWalk_C /Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.A_IdleWalk_C_0
+	Function /Game/Animation/A_IdleWalk.A_IdleWalk_C:ExecuteUbergraph_A_IdleWalk:0040
+[2023.05.13-11.45.26:288][507]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.13-11.45.26:389][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/A_IdleWalk" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset" SILENT=true
+[2023.05.13-11.45.26:423][507]LogSavePackage: Moving output files for package: /Game/Animation/A_IdleWalk
+[2023.05.13-11.45.26:424][507]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/A_IdleWalk29A29D894A4086DF97ACAF80556881EE.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset'
+[2023.05.13-11.45.26:429][507]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 34.0 sec)
+[2023.05.13-11.45.26:438][507]AssetCheck: New page: Asset Save: A_IdleWalk
+[2023.05.13-11.45.26:438][507]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk
+[2023.05.13-11.45.43:019][737]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2023.05.13-11.46.36:897][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2023.05.13-11.46.38:744][ 12]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ModularBuildingSet/MO_Level_Auto1
+[2023.05.13-11.46.38:744][ 12]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/MO_Level_Auto1055242B943EBF6D48342698A5A496B31.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/Autosaves/Game/ModularBuildingSet/MO_Level_Auto1.umap'
+[2023.05.13-11.46.38:785][ 12]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ModularBuildingSet/MO_Level' took 1.943
+[2023.05.13-11.46.38:786][ 12]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.943
+[2023.05.13-11.46.38:788][ 12]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Animation/A_IdleWalk] ([2] browsable assets)...
+[2023.05.13-11.46.38:813][ 12]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk]
+[2023.05.13-11.46.38:813][ 12]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/A_IdleWalk]
+[2023.05.13-11.46.38:826][ 12]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/A_IdleWalk_Auto1
+[2023.05.13-11.46.38:826][ 12]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/A_IdleWalk_Auto1407E0A054A1392A0585FEDBC8BACDC8B.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/Autosaves/Game/Animation/A_IdleWalk_Auto1.uasset'
+[2023.05.13-11.46.38:846][ 12]LogFileHelpers: Auto-saving content packages took 0.040
+[2023.05.13-11.46.49:425][554]BlueprintLog: New page: Compile A_IdleWalk
+[2023.05.13-11.46.49:429][554]LogBlueprint: Warning: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Animation\A_IdleWalk.uasset: [Compiler] Walking to Idle  will never be taken, please connect something to  Can Enter Transition
+[2023.05.13-11.46.49:591][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.05.13-11.47.13:610][496]BlueprintLog: New page: Compile A_IdleWalk
+[2023.05.13-11.47.13:691][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.05.13-11.47.14:430][533]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.13-11.47.14:508][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/A_IdleWalk" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset" SILENT=true
+[2023.05.13-11.47.14:523][533]LogSavePackage: Moving output files for package: /Game/Animation/A_IdleWalk
+[2023.05.13-11.47.14:524][533]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/A_IdleWalkB611088D4142A8DAC62C47830755FC31.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset'
+[2023.05.13-11.47.14:531][533]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 34.1 sec)
+[2023.05.13-11.47.14:540][533]AssetCheck: New page: Asset Save: A_IdleWalk
+[2023.05.13-11.47.14:540][533]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk
+[2023.05.13-11.47.50:529][158]LogEditorTransaction: Undo Add Node
+[2023.05.13-11.47.50:631][158]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.13-11.48.31:087][342]BlueprintLog: New page: Compile A_IdleWalk
+[2023.05.13-11.48.31:173][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.05.13-11.48.48:766][834]BlueprintLog: New page: Compile A_IdleWalk
+[2023.05.13-11.48.48:849][834]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.05.13-11.48.49:281][853]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.13-11.48.49:378][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/A_IdleWalk" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset" SILENT=true
+[2023.05.13-11.48.49:393][853]LogSavePackage: Moving output files for package: /Game/Animation/A_IdleWalk
+[2023.05.13-11.48.49:394][853]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/A_IdleWalkB8B9EB594A524F5ED6AD5FB64A4C78B8.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset'
+[2023.05.13-11.48.49:400][853]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 34.3 sec)
+[2023.05.13-11.48.49:410][853]AssetCheck: New page: Asset Save: A_IdleWalk
+[2023.05.13-11.48.49:410][853]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk
+[2023.05.13-11.48.59:965][920]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.13-11.48.59:971][920]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.13-11.48.59:971][920]PIE: New page: PIE session: MO_Level (13 maj 2023, 15:48:59)
+[2023.05.13-11.48.59:999][920]LogPlayLevel: Creating play world package: /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.05.13-11.49.00:862][920]LogPlayLevel: PIE: StaticDuplicateObject took: (0.863928s)
+[2023.05.13-11.49.00:862][920]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularBuildingSet/MO_Level.MO_Level to /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level (0.863973s)
+[2023.05.13-11.49.00:862][920]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.13-11.49.00:863][920]LogAIModule: Creating AISystem for world MO_Level
+[2023.05.13-11.49.00:867][920]LogPlayLevel: PIE: World Init took: (0.004252s)
+[2023.05.13-11.49.00:924][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.05.13-11.49.00:926][920]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.05.13-11.49.00:926][920]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.13-11.49.00:926][920]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.13-11.49.00:926][920]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.13-11.49.00:926][920]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.13-11.49.00:926][920]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.13-11.49.00:926][920]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.13-11.49.00:926][920]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.13-11.49.00:926][920]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.13-11.49.00:927][920]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.13-11.49.00:927][920]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.13-11.49.00:927][920]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.13-11.49.00:929][920]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.13-11.49.00:943][920]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Philips UH202( Stereo ))
+[2023.05.13-11.49.00:943][920]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.13-11.49.00:943][920]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.13-11.49.00:943][920]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.13-11.49.00:944][920]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.05.13-11.49.00:944][920]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.05.13-11.49.00:945][920]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.05.13-11.49.00:945][920]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.05.13-11.49.00:945][920]LogInit: FAudioDevice initialized.
+[2023.05.13-11.49.00:945][920]LogAudio: Display: Audio Device (ID: 10) registered with world 'MO_Level'.
+[2023.05.13-11.49.00:953][920]LogLoad: Game class is 'BP_FPS_C'
+[2023.05.13-11.49.01:381][920]LogWorld: Bringing World /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level up for play (max tick rate 0) at 2023.05.13-13.49.01
+[2023.05.13-11.49.01:386][920]LogWorld: Bringing up level for play took: 0.431722
+[2023.05.13-11.49.01:387][920]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2023.05.13-11.49.01:394][920]PIE: Server logged in
+[2023.05.13-11.49.01:395][920]PIE: Play in editor total start time 1,425 seconds.
+[2023.05.13-11.49.03:070][924]LogAudioMixer: Warning: Audio Thread Command from InitSource() took 6.890700 milleseconds to execute
+[2023.05.13-11.49.15:317][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.13-11.49.15:317][989]LogWorld: BeginTearingDown for /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.05.13-11.49.15:324][989]LogWorld: UWorld::CleanupWorld for MO_Level, bSessionEnded=true, bCleanupResources=true
+[2023.05.13-11.49.15:359][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.13-11.49.15:658][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.13-11.49.15:677][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.13-11.49.15:740][989]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.13-11.49.15:773][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.05.13-11.49.15:775][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.05.13-11.49.15:778][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.13-11.49.15:850][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2023.05.13-11.49.16:074][990]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.05.13-11.49.16:720][990]LogViewport: Scene viewport resized to 448x196, mode Windowed.
+[2023.05.13-11.49.18:119][993]LogViewport: Scene viewport resized to 944x400, mode Windowed.
+[2023.05.13-11.49.18:359][993]LogViewport: Scene viewport resized to 298x126, mode Windowed.
+[2023.05.13-11.49.19:835][998]LogViewport: Scene viewport resized to 1420x621, mode Windowed.
+[2023.05.13-11.49.20:130][998]LogViewport: Scene viewport resized to 448x196, mode Windowed.
+[2023.05.13-11.49.32:834][523]BlueprintLog: New page: Compile A_IdleWalk
+[2023.05.13-11.49.32:916][523]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.05.13-11.49.34:247][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.13-11.49.34:347][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/A_IdleWalk" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset" SILENT=true
+[2023.05.13-11.49.34:362][592]LogSavePackage: Moving output files for package: /Game/Animation/A_IdleWalk
+[2023.05.13-11.49.34:363][592]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/A_IdleWalk66FC752E49CA420FD9F7DFB04C353A56.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset'
+[2023.05.13-11.49.34:370][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 34.4 sec)
+[2023.05.13-11.49.34:379][592]AssetCheck: New page: Asset Save: A_IdleWalk
+[2023.05.13-11.49.34:379][592]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk
+[2023.05.13-11.49.36:724][648]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.13-11.49.36:730][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.13-11.49.36:730][648]PIE: New page: PIE session: MO_Level (13 maj 2023, 15:49:36)
+[2023.05.13-11.49.36:730][648]LogPlayLevel: Creating play world package: /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.05.13-11.49.37:549][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.819081s)
+[2023.05.13-11.49.37:549][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularBuildingSet/MO_Level.MO_Level to /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level (0.819107s)
+[2023.05.13-11.49.37:549][648]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.13-11.49.37:549][648]LogAIModule: Creating AISystem for world MO_Level
+[2023.05.13-11.49.37:553][648]LogPlayLevel: PIE: World Init took: (0.004302s)
+[2023.05.13-11.49.37:610][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.05.13-11.49.37:611][648]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.05.13-11.49.37:611][648]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.13-11.49.37:611][648]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.13-11.49.37:611][648]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.13-11.49.37:611][648]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.13-11.49.37:611][648]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.13-11.49.37:611][648]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.13-11.49.37:611][648]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.13-11.49.37:611][648]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.13-11.49.37:612][648]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.13-11.49.37:612][648]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.13-11.49.37:612][648]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.13-11.49.37:614][648]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.13-11.49.37:628][648]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Philips UH202( Stereo ))
+[2023.05.13-11.49.37:628][648]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.13-11.49.37:628][648]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.13-11.49.37:628][648]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.13-11.49.37:629][648]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.05.13-11.49.37:629][648]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.05.13-11.49.37:630][648]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.05.13-11.49.37:630][648]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.05.13-11.49.37:630][648]LogInit: FAudioDevice initialized.
+[2023.05.13-11.49.37:630][648]LogAudio: Display: Audio Device (ID: 11) registered with world 'MO_Level'.
+[2023.05.13-11.49.37:639][648]LogLoad: Game class is 'BP_FPS_C'
+[2023.05.13-11.49.38:041][648]LogWorld: Bringing World /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level up for play (max tick rate 0) at 2023.05.13-13.49.38
+[2023.05.13-11.49.38:046][648]LogWorld: Bringing up level for play took: 0.406985
+[2023.05.13-11.49.38:048][648]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2023.05.13-11.49.38:056][648]PIE: Server logged in
+[2023.05.13-11.49.38:056][648]PIE: Play in editor total start time 1,327 seconds.
+[2023.05.13-11.49.48:387][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.13-11.49.48:387][700]LogWorld: BeginTearingDown for /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.05.13-11.49.48:405][700]LogWorld: UWorld::CleanupWorld for MO_Level, bSessionEnded=true, bCleanupResources=true
+[2023.05.13-11.49.48:446][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.13-11.49.48:693][700]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.13-11.49.48:711][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.13-11.49.48:804][700]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.13-11.49.48:804][700]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.05.13-11.49.48:805][700]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.05.13-11.49.48:810][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.13-11.49.48:883][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.05.13-11.49.49:105][701]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.05.13-11.49.50:174][701]LogViewport: Scene viewport resized to 448x196, mode Windowed.
+[2023.05.13-11.50.51:688][ 67]BlueprintLog: New page: Compile A_IdleWalk
+[2023.05.13-11.50.51:774][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.05.13-11.50.52:656][114]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.13-11.50.52:751][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/A_IdleWalk" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset" SILENT=true
+[2023.05.13-11.50.52:767][114]LogSavePackage: Moving output files for package: /Game/Animation/A_IdleWalk
+[2023.05.13-11.50.52:767][114]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/A_IdleWalk22DA3BC34DA215CAF401089D602E8DFC.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset'
+[2023.05.13-11.50.52:774][114]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 34.5 sec)
+[2023.05.13-11.50.52:785][114]AssetCheck: New page: Asset Save: A_IdleWalk
+[2023.05.13-11.50.52:785][114]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk
+[2023.05.13-11.50.56:560][374]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2023.05.13-11.51.19:866][673]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.13-11.51.19:873][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.13-11.51.19:873][673]PIE: New page: PIE session: MO_Level (13 maj 2023, 15:51:19)
+[2023.05.13-11.51.19:873][673]LogPlayLevel: Creating play world package: /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.05.13-11.51.20:741][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.867525s)
+[2023.05.13-11.51.20:741][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularBuildingSet/MO_Level.MO_Level to /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level (0.867559s)
+[2023.05.13-11.51.20:741][673]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.13-11.51.20:742][673]LogAIModule: Creating AISystem for world MO_Level
+[2023.05.13-11.51.20:745][673]LogPlayLevel: PIE: World Init took: (0.004263s)
+[2023.05.13-11.51.20:801][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.05.13-11.51.20:804][673]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.05.13-11.51.20:804][673]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.13-11.51.20:804][673]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.13-11.51.20:804][673]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.13-11.51.20:804][673]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.13-11.51.20:804][673]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.13-11.51.20:804][673]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.13-11.51.20:804][673]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.13-11.51.20:804][673]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.13-11.51.20:805][673]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.13-11.51.20:805][673]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.13-11.51.20:805][673]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.13-11.51.20:807][673]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.13-11.51.20:821][673]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Philips UH202( Stereo ))
+[2023.05.13-11.51.20:821][673]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.13-11.51.20:821][673]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.13-11.51.20:821][673]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.13-11.51.20:822][673]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.05.13-11.51.20:822][673]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.05.13-11.51.20:824][673]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.05.13-11.51.20:824][673]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.05.13-11.51.20:824][673]LogInit: FAudioDevice initialized.
+[2023.05.13-11.51.20:824][673]LogAudio: Display: Audio Device (ID: 12) registered with world 'MO_Level'.
+[2023.05.13-11.51.20:853][673]LogLoad: Game class is 'BP_FPS_C'
+[2023.05.13-11.51.21:284][673]LogWorld: Bringing World /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level up for play (max tick rate 0) at 2023.05.13-13.51.21
+[2023.05.13-11.51.21:290][673]LogWorld: Bringing up level for play took: 0.436160
+[2023.05.13-11.51.21:292][673]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2023.05.13-11.51.21:300][673]PIE: Server logged in
+[2023.05.13-11.51.21:300][673]PIE: Play in editor total start time 1,427 seconds.
+[2023.05.13-11.51.34:307][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.13-11.51.34:307][760]LogWorld: BeginTearingDown for /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.05.13-11.51.34:314][760]LogWorld: UWorld::CleanupWorld for MO_Level, bSessionEnded=true, bCleanupResources=true
+[2023.05.13-11.51.34:347][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.13-11.51.34:541][760]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.13-11.51.34:559][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.13-11.51.34:618][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.13-11.51.34:650][760]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.05.13-11.51.34:652][760]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.05.13-11.51.34:729][760]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.05.13-11.51.34:893][761]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.05.13-11.51.35:723][761]LogViewport: Scene viewport resized to 448x196, mode Windowed.
+[2023.05.13-11.51.47:080][238]BlueprintLog: New page: Compile A_IdleWalk
+[2023.05.13-11.51.47:161][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.05.13-11.51.48:231][295]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.13-11.51.48:318][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/A_IdleWalk" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset" SILENT=true
+[2023.05.13-11.51.48:334][295]LogSavePackage: Moving output files for package: /Game/Animation/A_IdleWalk
+[2023.05.13-11.51.48:335][295]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/A_IdleWalkE282C72B485ECE86CC5EAD9A02B8D720.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset'
+[2023.05.13-11.51.48:342][295]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 34.6 sec)
+[2023.05.13-11.51.48:351][295]AssetCheck: New page: Asset Save: A_IdleWalk
+[2023.05.13-11.51.48:351][295]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk
+[2023.05.13-11.51.52:806][468]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.13-11.51.52:813][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.13-11.51.52:813][468]PIE: New page: PIE session: MO_Level (13 maj 2023, 15:51:52)
+[2023.05.13-11.51.52:813][468]LogPlayLevel: Creating play world package: /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.05.13-11.51.53:642][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.829338s)
+[2023.05.13-11.51.53:642][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularBuildingSet/MO_Level.MO_Level to /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level (0.829369s)
+[2023.05.13-11.51.53:642][468]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.13-11.51.53:643][468]LogAIModule: Creating AISystem for world MO_Level
+[2023.05.13-11.51.53:647][468]LogPlayLevel: PIE: World Init took: (0.004927s)
+[2023.05.13-11.51.53:704][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.05.13-11.51.53:706][468]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.05.13-11.51.53:706][468]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.13-11.51.53:706][468]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.13-11.51.53:706][468]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.13-11.51.53:706][468]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.13-11.51.53:706][468]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.13-11.51.53:706][468]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.13-11.51.53:706][468]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.13-11.51.53:706][468]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.13-11.51.53:707][468]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.13-11.51.53:707][468]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.13-11.51.53:707][468]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.13-11.51.53:708][468]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.13-11.51.53:722][468]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Philips UH202( Stereo ))
+[2023.05.13-11.51.53:722][468]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.13-11.51.53:723][468]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.13-11.51.53:723][468]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.13-11.51.53:723][468]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.05.13-11.51.53:723][468]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.05.13-11.51.53:725][468]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.05.13-11.51.53:725][468]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.05.13-11.51.53:725][468]LogInit: FAudioDevice initialized.
+[2023.05.13-11.51.53:725][468]LogAudio: Display: Audio Device (ID: 13) registered with world 'MO_Level'.
+[2023.05.13-11.51.53:735][468]LogLoad: Game class is 'BP_FPS_C'
+[2023.05.13-11.51.54:134][468]LogWorld: Bringing World /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level up for play (max tick rate 0) at 2023.05.13-13.51.54
+[2023.05.13-11.51.54:140][468]LogWorld: Bringing up level for play took: 0.404391
+[2023.05.13-11.51.54:142][468]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2023.05.13-11.51.54:150][468]PIE: Server logged in
+[2023.05.13-11.51.54:150][468]PIE: Play in editor total start time 1,337 seconds.
+[2023.05.13-11.52.02:916][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.13-11.52.02:916][515]LogWorld: BeginTearingDown for /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.05.13-11.52.02:922][515]LogWorld: UWorld::CleanupWorld for MO_Level, bSessionEnded=true, bCleanupResources=true
+[2023.05.13-11.52.02:956][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.13-11.52.03:168][515]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.13-11.52.03:186][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.13-11.52.03:278][515]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.13-11.52.03:279][515]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.05.13-11.52.03:280][515]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.05.13-11.52.03:283][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.13-11.52.03:359][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.05.13-11.52.03:542][516]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.05.13-11.52.04:401][516]LogViewport: Scene viewport resized to 448x196, mode Windowed.
+[2023.05.13-11.53.17:033][253]BlueprintLog: New page: Compile A_IdleWalk
+[2023.05.13-11.53.17:114][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.05.13-11.53.18:112][308]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.13-11.53.18:205][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/A_IdleWalk" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset" SILENT=true
+[2023.05.13-11.53.18:220][308]LogSavePackage: Moving output files for package: /Game/Animation/A_IdleWalk
+[2023.05.13-11.53.18:221][308]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/A_IdleWalk711B752F400E660F2F226F9BCD801208.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset'
+[2023.05.13-11.53.18:227][308]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 34.7 sec)
+[2023.05.13-11.53.18:236][308]AssetCheck: New page: Asset Save: A_IdleWalk
+[2023.05.13-11.53.18:236][308]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk
+[2023.05.13-11.53.29:038][405]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.13-11.53.29:044][405]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.13-11.53.29:044][405]PIE: New page: PIE session: MO_Level (13 maj 2023, 15:53:29)
+[2023.05.13-11.53.29:044][405]LogPlayLevel: Creating play world package: /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.05.13-11.53.29:868][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.823291s)
+[2023.05.13-11.53.29:868][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularBuildingSet/MO_Level.MO_Level to /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level (0.823323s)
+[2023.05.13-11.53.29:868][405]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.13-11.53.29:868][405]LogAIModule: Creating AISystem for world MO_Level
+[2023.05.13-11.53.29:872][405]LogPlayLevel: PIE: World Init took: (0.004464s)
+[2023.05.13-11.53.29:927][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.05.13-11.53.29:930][405]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.05.13-11.53.29:930][405]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.13-11.53.29:930][405]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.13-11.53.29:930][405]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.13-11.53.29:930][405]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.13-11.53.29:930][405]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.13-11.53.29:930][405]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.13-11.53.29:930][405]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.13-11.53.29:930][405]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.13-11.53.29:930][405]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.13-11.53.29:930][405]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.13-11.53.29:930][405]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.13-11.53.29:932][405]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.13-11.53.29:946][405]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Philips UH202( Stereo ))
+[2023.05.13-11.53.29:946][405]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.13-11.53.29:946][405]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.13-11.53.29:946][405]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.13-11.53.29:946][405]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.05.13-11.53.29:946][405]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.05.13-11.53.29:948][405]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.05.13-11.53.29:948][405]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.05.13-11.53.29:948][405]LogInit: FAudioDevice initialized.
+[2023.05.13-11.53.29:948][405]LogAudio: Display: Audio Device (ID: 14) registered with world 'MO_Level'.
+[2023.05.13-11.53.29:956][405]LogLoad: Game class is 'BP_FPS_C'
+[2023.05.13-11.53.30:360][405]LogWorld: Bringing World /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level up for play (max tick rate 0) at 2023.05.13-13.53.30
+[2023.05.13-11.53.30:366][405]LogWorld: Bringing up level for play took: 0.409464
+[2023.05.13-11.53.30:368][405]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2023.05.13-11.53.30:375][405]PIE: Server logged in
+[2023.05.13-11.53.30:376][405]PIE: Play in editor total start time 1,332 seconds.
+[2023.05.13-11.53.39:377][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.13-11.53.39:377][444]LogWorld: BeginTearingDown for /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.05.13-11.53.39:383][444]LogWorld: UWorld::CleanupWorld for MO_Level, bSessionEnded=true, bCleanupResources=true
+[2023.05.13-11.53.39:416][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.13-11.53.39:637][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.13-11.53.39:655][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.13-11.53.39:747][444]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.13-11.53.39:747][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.05.13-11.53.39:749][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.05.13-11.53.39:752][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.13-11.53.39:824][444]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.05.13-11.53.39:993][445]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.05.13-11.53.40:818][445]LogViewport: Scene viewport resized to 448x196, mode Windowed.

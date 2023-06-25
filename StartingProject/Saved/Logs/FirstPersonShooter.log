@@ -2886,3 +2886,95 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.25-21.54.38:487][369]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.09 sec (total: 7.79 sec)
 [2023.06.25-21.54.38:529][369]AssetCheck: New page: Asset Save: MO_Level
 [2023.06.25-21.54.38:529][369]LogContentValidation: Display: Validating /Script/Engine.World /Game/ModularBuildingSet/MO_Level.MO_Level
+[2023.06.25-21.56.51:806][785]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk
+[2023.06.25-21.56.51:807][785]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-21.56.52:005][785]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-21.56.52:027][785]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_77:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.25-21.56.53:022][785]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-21.56.53:183][785]LogViewport: Scene viewport resized to 476x413, mode Windowed.
+[2023.06.25-21.56.53:237][785]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.06.25-21.57.03:327][854]LogSlate: Window 'A_IdleWalk' being destroyed
+[2023.06.25-21.57.03:347][854]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-21.57.03:347][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-21.57.03:386][854]LogWorld: UWorld::CleanupWorld for World_77, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-21.57.03:386][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-21.57.03:434][854]LogWorld: UWorld::CleanupWorld for World_78, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-21.57.03:434][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-21.57.07:247][885]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.25-21.57.07:254][885]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.25-21.57.07:254][885]PIE: New page: PIE session: MO_Level (26 cze 2023, 01:57:07)
+[2023.06.25-21.57.07:254][885]LogPlayLevel: Creating play world package: /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.25-21.57.08:103][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.848534s)
+[2023.06.25-21.57.08:103][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularBuildingSet/MO_Level.MO_Level to /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level (0.848564s)
+[2023.06.25-21.57.08:103][885]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-21.57.08:103][885]LogAIModule: Creating AISystem for world MO_Level
+[2023.06.25-21.57.08:108][885]LogPlayLevel: PIE: World Init took: (0.005252s)
+[2023.06.25-21.57.08:206][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.06.25-21.57.08:208][885]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.06.25-21.57.08:208][885]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.25-21.57.08:208][885]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.25-21.57.08:208][885]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.25-21.57.08:208][885]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.25-21.57.08:208][885]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.25-21.57.08:208][885]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.25-21.57.08:208][885]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.25-21.57.08:208][885]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.25-21.57.08:208][885]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.25-21.57.08:208][885]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.25-21.57.08:208][885]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.25-21.57.08:210][885]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.25-21.57.08:224][885]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Philips UH202( Stereo ))
+[2023.06.25-21.57.08:224][885]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.25-21.57.08:224][885]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.25-21.57.08:224][885]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.25-21.57.08:225][885]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.06.25-21.57.08:225][885]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.06.25-21.57.08:227][885]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.06.25-21.57.08:227][885]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.06.25-21.57.08:227][885]LogInit: FAudioDevice initialized.
+[2023.06.25-21.57.08:227][885]LogAudio: Display: Audio Device (ID: 22) registered with world 'MO_Level'.
+[2023.06.25-21.57.08:235][885]LogLoad: Game class is 'BP_FPS_C'
+[2023.06.25-21.57.08:671][885]LogWorld: Bringing World /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level up for play (max tick rate 0) at 2023.06.25-23.57.08
+[2023.06.25-21.57.08:679][885]LogWorld: Bringing up level for play took: 0.443754
+[2023.06.25-21.57.08:681][885]LogOnline: OSS: Created online subsystem instance for: :Context_100
+[2023.06.25-21.57.08:690][885]PIE: Server logged in
+[2023.06.25-21.57.08:691][885]PIE: Play in editor total start time 1,437 seconds.
+[2023.06.25-21.57.16:402][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.25-21.57.16:402][922]LogWorld: BeginTearingDown for /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.25-21.57.16:408][922]LogWorld: UWorld::CleanupWorld for MO_Level, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-21.57.16:445][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-21.57.16:712][922]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.25-21.57.16:730][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-21.57.16:786][922]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.25-21.57.16:786][922]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.06.25-21.57.16:788][922]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.06.25-21.57.16:791][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.25-21.57.16:906][922]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2023.06.25-21.57.16:958][923]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2023.06.25-21.57.51:460][404]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Assets/Characters/Arms/Mesh/Mesh_Arms.Mesh_Arms
+[2023.06.25-21.57.51:855][404]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-21.57.51:868][404]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_79:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.25-21.57.52:307][404]LogViewport: Scene viewport resized to 1141x866, mode Windowed.
+[2023.06.25-21.58.04:478][681]LogShaderCompilers: Display: ================================================
+[2023.06.25-21.58.04:479][681]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.25-21.58.04:479][681]LogShaderCompilers: Display: Total job queries 326, among them cache hits 52 (15.95%)
+[2023.06.25-21.58.04:479][681]LogShaderCompilers: Display: Tracking 274 distinct input hashes that result in 153 distinct outputs (55.84%)
+[2023.06.25-21.58.04:479][681]LogShaderCompilers: Display: RAM used: 0.54 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2023.06.25-21.58.04:479][681]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.25-21.58.04:479][681]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.06.25-21.58.04:479][681]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.06.25-21.58.04:479][681]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.06.25-21.58.04:479][681]LogShaderCompilers: Display: ================================================
+[2023.06.25-21.58.58:687][ 80]Cmd: TRANSACTION UNDO
+[2023.06.25-21.58.58:687][ 80]LogEditorTransaction: Undo Create Mesh Socket
+[2023.06.25-21.58.58:731][ 80]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Mesh_Arms) ...
+[2023.06.25-21.58.59:168][ 80]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_79:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.25-22.00.13:051][536]Cmd: TRANSACTION UNDO
+[2023.06.25-22.00.13:051][536]LogEditorTransaction: Undo Delete selected sockets/meshes/bones from skeleton tree
+[2023.06.25-22.00.13:343][536]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_79:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.25-22.00.23:822][612]Cmd: TRANSACTION UNDO
+[2023.06.25-22.00.23:822][612]LogEditorTransaction: Undo Create Mesh Socket
+[2023.06.25-22.00.24:074][612]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_79:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.25-22.01.07:356][774]LogSlate: Window 'Mesh_Arms' being destroyed
+[2023.06.25-22.01.07:640][774]LogWorld: UWorld::CleanupWorld for World_79, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-22.01.07:640][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated

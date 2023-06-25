@@ -3377,3 +3377,1258 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.25-22.16.49:586][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.06 sec (total: 10.8 sec)
 [2023.06.25-22.16.49:625][ 90]AssetCheck: New page: Asset Save: MO_Level
 [2023.06.25-22.16.49:625][ 90]LogContentValidation: Display: Validating /Script/Engine.World /Game/ModularBuildingSet/MO_Level.MO_Level
+[2023.06.25-22.17.32:846][122]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.25-22.17.32:929][122]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.06.25-22.17.33:626][191]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.25-22.17.33:759][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPS_Character" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset" SILENT=true
+[2023.06.25-22.17.33:766][191]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FPS_Character
+[2023.06.25-22.17.33:767][191]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_CharacterD3E7E31541813D55B29BE3AF6D1C016F.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset'
+[2023.06.25-22.17.33:774][191]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 10.9 sec)
+[2023.06.25-22.17.33:783][191]AssetCheck: New page: Asset Save: BP_FPS_Character
+[2023.06.25-22.17.33:783][191]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character
+[2023.06.25-22.17.38:866][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.25-22.17.38:944][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPS_Character" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset" SILENT=true
+[2023.06.25-22.17.38:951][523]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FPS_Character
+[2023.06.25-22.17.38:951][523]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_Character05B74DA44CBAA07C4A3F75BD33909539.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset'
+[2023.06.25-22.17.38:957][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 11.0 sec)
+[2023.06.25-22.17.38:965][523]AssetCheck: New page: Asset Save: BP_FPS_Character
+[2023.06.25-22.17.38:965][523]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character
+[2023.06.25-22.17.51:703][765]LogDerivedDataCache: C:/Users/majao/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.044 and deleted 0 files with total size 0 MiB. Scanned 10949 files in 3191 folders with total size 2606 MiB.
+[2023.06.25-22.18.34:206][663]LogSlate: Window 'Project Settings' being destroyed
+[2023.06.25-22.18.34:224][663]LogSlate: Window 'Project Settings' being destroyed
+[2023.06.25-22.19.02:524][385]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.25-22.19.02:604][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.06.25-22.22.49:457][925]LogEditorTransaction: Undo Move Nodes
+[2023.06.25-22.22.50:075][944]LogEditorTransaction: Undo Move Node
+[2023.06.25-22.22.50:564][989]LogEditorTransaction: Undo Create Pin Link
+[2023.06.25-22.22.51:049][ 36]LogEditorTransaction: Undo Create Pin Link
+[2023.06.25-22.26.47:447][502]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.06.25-22.26.47:450][502]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ModularBuildingSet/MO_Level' took 0.051
+[2023.06.25-22.26.47:450][502]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_FPS_Character] ([2] browsable assets)...
+[2023.06.25-22.26.47:516][502]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character]
+[2023.06.25-22.26.47:516][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_FPS_Character]
+[2023.06.25-22.26.47:525][502]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_FPS_Character_Auto6
+[2023.06.25-22.26.47:526][502]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_Character_Auto656EA60054981D837B43DB8932F4DE364.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/Autosaves/Game/Blueprints/BP_FPS_Character_Auto6.uasset'
+[2023.06.25-22.26.47:527][502]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton] ([1] browsable assets)...
+[2023.06.25-22.26.47:548][502]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Assets/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton.SK_Mannequin_Arms_Skeleton]
+[2023.06.25-22.26.47:548][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton]
+[2023.06.25-22.26.47:551][502]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton_Auto6
+[2023.06.25-22.26.47:551][502]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/SK_Mannequin_Arms_Skeleton_Auto6DF15693F4C5F4D55182A56B66CF2896A.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/Autosaves/Game/Assets/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton_Auto6.uasset'
+[2023.06.25-22.26.47:552][502]LogFileHelpers: Auto-saving content packages took 0.102
+[2023.06.25-22.27.13:733][821]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.25-22.27.13:733][821]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.25-22.27.13:733][821]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.25-22.30.40:239][631]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.25-22.30.40:319][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.06.25-22.30.42:345][843]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.25-22.30.42:461][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPS_Character" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset" SILENT=true
+[2023.06.25-22.30.42:469][843]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FPS_Character
+[2023.06.25-22.30.42:470][843]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_Character8E1ADDAB444387B6B6BAE7984CF14BF7.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset'
+[2023.06.25-22.30.42:476][843]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 11.1 sec)
+[2023.06.25-22.30.42:486][843]AssetCheck: New page: Asset Save: BP_FPS_Character
+[2023.06.25-22.30.42:486][843]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character
+[2023.06.25-22.30.43:153][921]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-22.30.43:153][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-22.30.46:187][943]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk
+[2023.06.25-22.30.46:187][943]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-22.30.46:228][943]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-22.30.46:280][943]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.25-22.30.47:045][943]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-22.30.47:237][943]LogViewport: Scene viewport resized to 476x413, mode Windowed.
+[2023.06.25-22.30.47:369][943]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.06.25-22.31.17:108][176]LogEditorTransaction: Undo Create Pin Link
+[2023.06.25-22.31.17:284][176]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_88:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.25-22.31.50:017][318]BlueprintLog: New page: Compile A_IdleWalk
+[2023.06.25-22.31.50:500][318]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.06.25-22.31.53:254][336]LogSlate: Window 'A_IdleWalk' being destroyed
+[2023.06.25-22.31.53:275][336]LogWorld: UWorld::CleanupWorld for World_87, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-22.31.53:275][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-22.31.53:315][336]LogWorld: UWorld::CleanupWorld for World_88, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-22.31.53:315][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-22.31.53:385][336]LogWorld: UWorld::CleanupWorld for World_89, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-22.31.53:385][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-22.31.55:165][353]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.25-22.31.55:171][353]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.25-22.31.55:172][353]PIE: New page: PIE session: MO_Level (26 cze 2023, 02:31:55)
+[2023.06.25-22.31.55:172][353]LogPlayLevel: Creating play world package: /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.25-22.31.56:021][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.848695s)
+[2023.06.25-22.31.56:021][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularBuildingSet/MO_Level.MO_Level to /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level (0.848730s)
+[2023.06.25-22.31.56:021][353]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-22.31.56:021][353]LogAIModule: Creating AISystem for world MO_Level
+[2023.06.25-22.31.56:025][353]LogPlayLevel: PIE: World Init took: (0.004318s)
+[2023.06.25-22.31.56:109][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.06.25-22.31.56:132][353]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2023.06.25-22.31.56:132][353]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.25-22.31.56:132][353]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.25-22.31.56:132][353]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.25-22.31.56:132][353]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.25-22.31.56:132][353]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.25-22.31.56:132][353]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.25-22.31.56:132][353]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.25-22.31.56:132][353]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.25-22.31.56:132][353]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.25-22.31.56:132][353]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.25-22.31.56:132][353]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.25-22.31.56:134][353]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.25-22.31.56:149][353]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Philips UH202( Stereo ))
+[2023.06.25-22.31.56:149][353]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.25-22.31.56:149][353]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.25-22.31.56:149][353]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.25-22.31.56:149][353]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2023.06.25-22.31.56:149][353]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2023.06.25-22.31.56:151][353]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2023.06.25-22.31.56:151][353]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2023.06.25-22.31.56:151][353]LogInit: FAudioDevice initialized.
+[2023.06.25-22.31.56:151][353]LogAudio: Display: Audio Device (ID: 29) registered with world 'MO_Level'.
+[2023.06.25-22.31.56:158][353]LogLoad: Game class is 'BP_FPS_C'
+[2023.06.25-22.31.56:584][353]LogWorld: Bringing World /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level up for play (max tick rate 0) at 2023.06.26-00.31.56
+[2023.06.25-22.31.56:590][353]LogWorld: Bringing up level for play took: 0.431948
+[2023.06.25-22.31.56:592][353]LogOnline: OSS: Created online subsystem instance for: :Context_118
+[2023.06.25-22.31.56:602][353]PIE: Server logged in
+[2023.06.25-22.31.56:603][353]PIE: Play in editor total start time 1,432 seconds.
+[2023.06.25-22.32.10:091][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.25-22.32.10:091][447]LogWorld: BeginTearingDown for /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.25-22.32.10:098][447]LogWorld: UWorld::CleanupWorld for MO_Level, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-22.32.10:132][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-22.32.10:271][447]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.25-22.32.10:287][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-22.32.10:317][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.25-22.32.10:359][447]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.06.25-22.32.10:360][447]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.06.25-22.32.10:440][447]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.06.25-22.32.10:535][448]LogPlayLevel: Display: Destroying online subsystem :Context_118
+[2023.06.25-22.32.14:900][473]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character
+[2023.06.25-22.32.14:901][473]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-22.34.16:414][809]LogEditorTransaction: Undo Add Node
+[2023.06.25-22.34.30:764][268]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.25-22.34.30:830][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.06.25-22.34.31:389][319]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.25-22.34.31:515][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPS_Character" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset" SILENT=true
+[2023.06.25-22.34.31:525][319]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FPS_Character
+[2023.06.25-22.34.31:525][319]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_Character753505B64EB514B461C45DB6488438B6.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset'
+[2023.06.25-22.34.31:532][319]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 11.3 sec)
+[2023.06.25-22.34.31:541][319]AssetCheck: New page: Asset Save: BP_FPS_Character
+[2023.06.25-22.34.31:541][319]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character
+[2023.06.25-22.34.33:694][418]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.25-22.34.33:700][418]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.25-22.34.33:700][418]PIE: New page: PIE session: MO_Level (26 cze 2023, 02:34:33)
+[2023.06.25-22.34.33:700][418]LogPlayLevel: Creating play world package: /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.25-22.34.34:536][418]LogPlayLevel: PIE: StaticDuplicateObject took: (0.835609s)
+[2023.06.25-22.34.34:536][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularBuildingSet/MO_Level.MO_Level to /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level (0.835643s)
+[2023.06.25-22.34.34:536][418]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-22.34.34:537][418]LogAIModule: Creating AISystem for world MO_Level
+[2023.06.25-22.34.34:540][418]LogPlayLevel: PIE: World Init took: (0.004283s)
+[2023.06.25-22.34.34:581][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.06.25-22.34.34:585][418]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2023.06.25-22.34.34:585][418]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.25-22.34.34:585][418]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.25-22.34.34:585][418]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.25-22.34.34:585][418]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.25-22.34.34:585][418]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.25-22.34.34:585][418]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.25-22.34.34:585][418]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.25-22.34.34:585][418]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.25-22.34.34:585][418]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.25-22.34.34:585][418]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.25-22.34.34:585][418]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.25-22.34.34:588][418]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.25-22.34.34:602][418]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Philips UH202( Stereo ))
+[2023.06.25-22.34.34:602][418]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.25-22.34.34:602][418]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.25-22.34.34:602][418]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.25-22.34.34:602][418]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2023.06.25-22.34.34:602][418]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2023.06.25-22.34.34:604][418]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2023.06.25-22.34.34:605][418]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2023.06.25-22.34.34:605][418]LogInit: FAudioDevice initialized.
+[2023.06.25-22.34.34:605][418]LogAudio: Display: Audio Device (ID: 30) registered with world 'MO_Level'.
+[2023.06.25-22.34.34:611][418]LogLoad: Game class is 'BP_FPS_C'
+[2023.06.25-22.34.35:022][418]LogWorld: Bringing World /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level up for play (max tick rate 0) at 2023.06.26-00.34.35
+[2023.06.25-22.34.35:028][418]LogWorld: Bringing up level for play took: 0.416799
+[2023.06.25-22.34.35:030][418]LogOnline: OSS: Created online subsystem instance for: :Context_120
+[2023.06.25-22.34.35:039][418]PIE: Server logged in
+[2023.06.25-22.34.35:040][418]PIE: Play in editor total start time 1,341 seconds.
+[2023.06.25-22.34.38:911][429]LogScript: Warning: Accessed None trying to read property AnimationBlueprint
+	BP_FPS_Character_C /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level:PersistentLevel.BP_FPS_Character_C_0
+	Function /Game/Blueprints/BP_FPS_Character.BP_FPS_Character_C:ExecuteUbergraph_BP_FPS_Character:005D
+[2023.06.25-22.34.38:911][429]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimationBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-22.34.38:911][429]LogScript: Warning: Accessed None trying to read property AnimationBlueprint
+	BP_FPS_Character_C /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level:PersistentLevel.BP_FPS_Character_C_0
+	Function /Game/Blueprints/BP_FPS_Character.BP_FPS_Character_C:ExecuteUbergraph_BP_FPS_Character:0035
+[2023.06.25-22.34.38:911][429]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimationBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-22.34.39:764][435]LogScript: Warning: Accessed None trying to read property AnimationBlueprint
+	BP_FPS_Character_C /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level:PersistentLevel.BP_FPS_Character_C_0
+	Function /Game/Blueprints/BP_FPS_Character.BP_FPS_Character_C:ExecuteUbergraph_BP_FPS_Character:005D
+[2023.06.25-22.34.39:764][435]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimationBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-22.34.41:688][447]LogScript: Warning: Accessed None trying to read property AnimationBlueprint
+	BP_FPS_Character_C /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level:PersistentLevel.BP_FPS_Character_C_0
+	Function /Game/Blueprints/BP_FPS_Character.BP_FPS_Character_C:ExecuteUbergraph_BP_FPS_Character:0035
+[2023.06.25-22.34.41:688][447]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimationBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-22.34.42:314][451]LogScript: Warning: Accessed None trying to read property AnimationBlueprint
+	BP_FPS_Character_C /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level:PersistentLevel.BP_FPS_Character_C_0
+	Function /Game/Blueprints/BP_FPS_Character.BP_FPS_Character_C:ExecuteUbergraph_BP_FPS_Character:005D
+[2023.06.25-22.34.42:315][451]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimationBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-22.34.43:938][460]LogScript: Warning: Accessed None trying to read property AnimationBlueprint
+	BP_FPS_Character_C /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level:PersistentLevel.BP_FPS_Character_C_0
+	Function /Game/Blueprints/BP_FPS_Character.BP_FPS_Character_C:ExecuteUbergraph_BP_FPS_Character:0035
+[2023.06.25-22.34.43:939][460]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimationBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-22.34.44:761][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.25-22.34.44:761][466]LogWorld: BeginTearingDown for /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.25-22.34.44:768][466]LogWorld: UWorld::CleanupWorld for MO_Level, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-22.34.44:801][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-22.34.44:959][466]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.25-22.34.44:975][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-22.34.45:052][466]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.25-22.34.45:052][466]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.06.25-22.34.45:054][466]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.06.25-22.34.45:058][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.25-22.34.45:133][466]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2023.06.25-22.34.45:323][467]LogPlayLevel: Display: Destroying online subsystem :Context_120
+[2023.06.25-22.34.56:964][564]LogSlate: Window 'Message Log' being destroyed
+[2023.06.25-22.34.57:072][564]LogSlate: Window 'Message Log' being destroyed
+[2023.06.25-22.35.41:325][  4]LogEditorTransaction: Undo Add Node
+[2023.06.25-22.35.54:509][339]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.25-22.35.54:575][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.06.25-22.35.55:291][406]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.25-22.35.55:434][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPS_Character" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset" SILENT=true
+[2023.06.25-22.35.55:443][406]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FPS_Character
+[2023.06.25-22.35.55:444][406]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_Character248D34D74A67E71AB9CCD9851694AE1C.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset'
+[2023.06.25-22.35.55:511][406]LogFileHelpers: InternalPromptForCheckoutAndSave took 219 ms (total: 11.5 sec)
+[2023.06.25-22.35.55:519][406]AssetCheck: New page: Asset Save: BP_FPS_Character
+[2023.06.25-22.35.55:519][406]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character
+[2023.06.25-22.36.05:450][553]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.25-22.36.05:456][553]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.25-22.36.05:456][553]PIE: New page: PIE session: MO_Level (26 cze 2023, 02:36:05)
+[2023.06.25-22.36.05:456][553]LogPlayLevel: Creating play world package: /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.25-22.36.06:299][553]LogPlayLevel: PIE: StaticDuplicateObject took: (0.843041s)
+[2023.06.25-22.36.06:299][553]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularBuildingSet/MO_Level.MO_Level to /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level (0.843072s)
+[2023.06.25-22.36.06:299][553]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-22.36.06:300][553]LogAIModule: Creating AISystem for world MO_Level
+[2023.06.25-22.36.06:305][553]LogPlayLevel: PIE: World Init took: (0.006537s)
+[2023.06.25-22.36.06:345][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.06.25-22.36.06:348][553]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2023.06.25-22.36.06:348][553]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.25-22.36.06:348][553]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.25-22.36.06:348][553]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.25-22.36.06:348][553]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.25-22.36.06:348][553]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.25-22.36.06:348][553]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.25-22.36.06:348][553]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.25-22.36.06:349][553]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.25-22.36.06:349][553]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.25-22.36.06:349][553]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.25-22.36.06:349][553]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.25-22.36.06:351][553]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.25-22.36.06:365][553]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Philips UH202( Stereo ))
+[2023.06.25-22.36.06:365][553]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.25-22.36.06:365][553]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.25-22.36.06:365][553]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.25-22.36.06:366][553]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2023.06.25-22.36.06:366][553]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2023.06.25-22.36.06:367][553]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2023.06.25-22.36.06:367][553]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2023.06.25-22.36.06:367][553]LogInit: FAudioDevice initialized.
+[2023.06.25-22.36.06:367][553]LogAudio: Display: Audio Device (ID: 31) registered with world 'MO_Level'.
+[2023.06.25-22.36.06:374][553]LogLoad: Game class is 'BP_FPS_C'
+[2023.06.25-22.36.06:794][553]LogWorld: Bringing World /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level up for play (max tick rate 0) at 2023.06.26-00.36.06
+[2023.06.25-22.36.06:799][553]LogWorld: Bringing up level for play took: 0.425448
+[2023.06.25-22.36.06:802][553]LogOnline: OSS: Created online subsystem instance for: :Context_121
+[2023.06.25-22.36.06:811][553]PIE: Server logged in
+[2023.06.25-22.36.06:811][553]PIE: Play in editor total start time 1,355 seconds.
+[2023.06.25-22.36.09:668][561]LogScript: Warning: Accessed None trying to read property AnimationBlueprint
+	BP_FPS_Character_C /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level:PersistentLevel.BP_FPS_Character_C_0
+	Function /Game/Blueprints/BP_FPS_Character.BP_FPS_Character_C:ExecuteUbergraph_BP_FPS_Character:005D
+[2023.06.25-22.36.09:668][561]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimationBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-22.36.09:816][562]LogScript: Warning: Accessed None trying to read property AnimationBlueprint
+	BP_FPS_Character_C /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level:PersistentLevel.BP_FPS_Character_C_0
+	Function /Game/Blueprints/BP_FPS_Character.BP_FPS_Character_C:ExecuteUbergraph_BP_FPS_Character:0035
+[2023.06.25-22.36.09:816][562]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimationBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-22.36.11:027][570]LogScript: Warning: Accessed None trying to read property AnimationBlueprint
+	BP_FPS_Character_C /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level:PersistentLevel.BP_FPS_Character_C_0
+	Function /Game/Blueprints/BP_FPS_Character.BP_FPS_Character_C:ExecuteUbergraph_BP_FPS_Character:005D
+[2023.06.25-22.36.11:027][570]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimationBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-22.36.12:066][577]LogScript: Warning: Accessed None trying to read property AnimationBlueprint
+	BP_FPS_Character_C /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level:PersistentLevel.BP_FPS_Character_C_0
+	Function /Game/Blueprints/BP_FPS_Character.BP_FPS_Character_C:ExecuteUbergraph_BP_FPS_Character:0035
+[2023.06.25-22.36.12:067][577]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimationBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-22.36.12:370][579]LogScript: Warning: Accessed None trying to read property AnimationBlueprint
+	BP_FPS_Character_C /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level:PersistentLevel.BP_FPS_Character_C_0
+	Function /Game/Blueprints/BP_FPS_Character.BP_FPS_Character_C:ExecuteUbergraph_BP_FPS_Character:005D
+[2023.06.25-22.36.12:370][579]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimationBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-22.36.12:986][583]LogScript: Warning: Accessed None trying to read property AnimationBlueprint
+	BP_FPS_Character_C /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level:PersistentLevel.BP_FPS_Character_C_0
+	Function /Game/Blueprints/BP_FPS_Character.BP_FPS_Character_C:ExecuteUbergraph_BP_FPS_Character:0035
+[2023.06.25-22.36.12:986][583]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimationBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-22.36.14:391][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.25-22.36.14:391][591]LogWorld: BeginTearingDown for /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.25-22.36.14:397][591]LogWorld: UWorld::CleanupWorld for MO_Level, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-22.36.14:431][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-22.36.14:629][591]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.25-22.36.14:644][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-22.36.14:724][591]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.25-22.36.14:725][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.06.25-22.36.14:726][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.06.25-22.36.14:731][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.25-22.36.14:805][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.06.25-22.36.15:050][592]LogPlayLevel: Display: Destroying online subsystem :Context_121
+[2023.06.25-22.36.24:493][670]LogSlate: Window 'Message Log' being destroyed
+[2023.06.25-22.36.24:605][670]LogSlate: Window 'Message Log' being destroyed
+[2023.06.25-22.36.56:799][735]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk
+[2023.06.25-22.36.56:799][735]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-22.36.56:967][735]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-22.36.56:986][735]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_92:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.25-22.36.57:981][735]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-22.36.58:171][735]LogViewport: Scene viewport resized to 476x413, mode Windowed.
+[2023.06.25-22.36.58:229][735]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.06.25-22.37.48:966][ 85]LogEditorTransaction: Undo Move Node
+[2023.06.25-22.37.49:214][ 85]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_92:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.25-22.37.50:739][ 94]LogEditorTransaction: Undo Add Node
+[2023.06.25-22.37.50:991][ 94]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_92:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.25-22.38.16:222][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.06.25-22.38.16:227][181]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ModularBuildingSet/MO_Level' took 0.051
+[2023.06.25-22.38.16:227][181]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_FPS_Character] ([2] browsable assets)...
+[2023.06.25-22.38.16:227][181]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_FPS_Character]
+[2023.06.25-22.38.16:236][181]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_FPS_Character_Auto7
+[2023.06.25-22.38.16:236][181]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_Character_Auto7AE8A7FC94258221D42AA349D28D8D2A8.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/Autosaves/Game/Blueprints/BP_FPS_Character_Auto7.uasset'
+[2023.06.25-22.38.16:237][181]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Animation/A_IdleWalk] ([2] browsable assets)...
+[2023.06.25-22.38.16:319][181]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk]
+[2023.06.25-22.38.16:319][181]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/A_IdleWalk]
+[2023.06.25-22.38.16:356][181]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/A_IdleWalk_Auto7
+[2023.06.25-22.38.16:356][181]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/A_IdleWalk_Auto7F36BEE3F43168A97B6C20CA2BC34B1CB.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/Autosaves/Game/Animation/A_IdleWalk_Auto7.uasset'
+[2023.06.25-22.38.16:357][181]LogFileHelpers: Auto-saving content packages took 0.131
+[2023.06.25-22.38.58:087][389]LogEditorTransaction: Undo Delete current selection
+[2023.06.25-22.38.58:342][389]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_92:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.25-22.38.59:710][397]LogEditorTransaction: Undo Add Node
+[2023.06.25-22.38.59:963][397]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_92:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.25-22.39.07:801][433]BlueprintLog: New page: Compile A_IdleWalk
+[2023.06.25-22.39.07:999][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.06.25-22.39.34:313][535]LogSlate: Window 'A_IdleWalk' being destroyed
+[2023.06.25-22.39.34:334][535]LogWorld: UWorld::CleanupWorld for World_91, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-22.39.34:334][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-22.39.34:377][535]LogWorld: UWorld::CleanupWorld for World_92, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-22.39.34:377][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-22.39.34:452][535]LogWorld: UWorld::CleanupWorld for World_93, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-22.39.34:452][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-22.40.19:482][227]LogEditorTransaction: Undo Create Pin Link
+[2023.06.25-22.40.19:990][236]LogEditorTransaction: Undo Create Pin Link
+[2023.06.25-22.40.20:332][265]LogEditorTransaction: Undo Move Node
+[2023.06.25-22.40.20:732][304]LogEditorTransaction: Undo Move Node
+[2023.06.25-22.40.21:216][348]LogEditorTransaction: Undo Move Node
+[2023.06.25-22.40.21:665][387]LogEditorTransaction: Undo Add Node
+[2023.06.25-22.40.22:171][437]LogEditorTransaction: Undo Move Node
+[2023.06.25-22.40.57:420][444]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.25-22.40.57:500][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.06.25-22.40.59:764][594]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.25-22.40.59:770][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.25-22.40.59:770][594]PIE: New page: PIE session: MO_Level (26 cze 2023, 02:40:59)
+[2023.06.25-22.40.59:770][594]LogPlayLevel: Creating play world package: /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.25-22.41.00:616][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.845376s)
+[2023.06.25-22.41.00:616][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularBuildingSet/MO_Level.MO_Level to /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level (0.845414s)
+[2023.06.25-22.41.00:616][594]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-22.41.00:616][594]LogAIModule: Creating AISystem for world MO_Level
+[2023.06.25-22.41.00:620][594]LogPlayLevel: PIE: World Init took: (0.004241s)
+[2023.06.25-22.41.00:658][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.06.25-22.41.00:662][594]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2023.06.25-22.41.00:662][594]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.25-22.41.00:662][594]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.25-22.41.00:662][594]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.25-22.41.00:662][594]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.25-22.41.00:662][594]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.25-22.41.00:662][594]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.25-22.41.00:662][594]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.25-22.41.00:662][594]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.25-22.41.00:662][594]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.25-22.41.00:662][594]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.25-22.41.00:662][594]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.25-22.41.00:664][594]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.25-22.41.00:679][594]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Philips UH202( Stereo ))
+[2023.06.25-22.41.00:679][594]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.25-22.41.00:679][594]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.25-22.41.00:679][594]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.25-22.41.00:680][594]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2023.06.25-22.41.00:680][594]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2023.06.25-22.41.00:682][594]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2023.06.25-22.41.00:682][594]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2023.06.25-22.41.00:682][594]LogInit: FAudioDevice initialized.
+[2023.06.25-22.41.00:682][594]LogAudio: Display: Audio Device (ID: 32) registered with world 'MO_Level'.
+[2023.06.25-22.41.00:689][594]LogLoad: Game class is 'BP_FPS_C'
+[2023.06.25-22.41.01:140][594]LogWorld: Bringing World /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level up for play (max tick rate 0) at 2023.06.26-00.41.01
+[2023.06.25-22.41.01:145][594]LogWorld: Bringing up level for play took: 0.455865
+[2023.06.25-22.41.01:147][594]LogOnline: OSS: Created online subsystem instance for: :Context_125
+[2023.06.25-22.41.01:157][594]PIE: Server logged in
+[2023.06.25-22.41.01:157][594]PIE: Play in editor total start time 1,387 seconds.
+[2023.06.25-22.41.04:215][601]LogScript: Warning: Accessed None trying to read property AnimationBlueprint
+	BP_FPS_Character_C /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level:PersistentLevel.BP_FPS_Character_C_0
+	Function /Game/Blueprints/BP_FPS_Character.BP_FPS_Character_C:ExecuteUbergraph_BP_FPS_Character:005D
+[2023.06.25-22.41.04:215][601]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimationBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-22.41.04:446][602]LogScript: Warning: Accessed None trying to read property AnimationBlueprint
+	BP_FPS_Character_C /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level:PersistentLevel.BP_FPS_Character_C_0
+	Function /Game/Blueprints/BP_FPS_Character.BP_FPS_Character_C:ExecuteUbergraph_BP_FPS_Character:0035
+[2023.06.25-22.41.04:446][602]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimationBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-22.41.06:217][609]LogScript: Warning: Accessed None trying to read property AnimationBlueprint
+	BP_FPS_Character_C /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level:PersistentLevel.BP_FPS_Character_C_0
+	Function /Game/Blueprints/BP_FPS_Character.BP_FPS_Character_C:ExecuteUbergraph_BP_FPS_Character:005D
+[2023.06.25-22.41.06:217][609]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimationBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-22.41.07:998][616]LogScript: Warning: Accessed None trying to read property AnimationBlueprint
+	BP_FPS_Character_C /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level:PersistentLevel.BP_FPS_Character_C_0
+	Function /Game/Blueprints/BP_FPS_Character.BP_FPS_Character_C:ExecuteUbergraph_BP_FPS_Character:0035
+[2023.06.25-22.41.07:998][616]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimationBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-22.41.07:998][616]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimationBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-22.41.08:691][619]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimationBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-22.41.10:258][625]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimationBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-22.41.11:366][629]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimationBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-22.41.11:942][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.25-22.41.11:942][631]LogWorld: BeginTearingDown for /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.25-22.41.11:948][631]LogWorld: UWorld::CleanupWorld for MO_Level, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-22.41.11:983][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-22.41.12:384][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.25-22.41.12:400][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-22.41.12:446][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.25-22.41.12:478][631]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.06.25-22.41.12:479][631]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.06.25-22.41.12:556][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.06.25-22.41.12:927][632]LogPlayLevel: Display: Destroying online subsystem :Context_125
+[2023.06.25-22.41.48:453][751]LogSlate: Window 'Message Log' being destroyed
+[2023.06.25-22.41.48:625][751]LogSlate: Window 'Message Log' being destroyed
+[2023.06.25-22.43.19:974][188]LogEditorTransaction: Undo Delete current selection
+[2023.06.25-22.43.20:672][214]LogEditorTransaction: Undo Create Pin Link
+[2023.06.25-22.43.21:253][272]LogEditorTransaction: Undo Move Node
+[2023.06.25-22.43.21:799][324]LogEditorTransaction: Undo Move Node
+[2023.06.25-22.43.22:272][371]LogEditorTransaction: Undo Convert to Impure Get
+[2023.06.25-22.43.40:626][396]LogEditorTransaction: Undo Move Node
+[2023.06.25-22.43.40:896][400]LogEditorTransaction: Undo Create Pin Link
+[2023.06.25-22.43.41:347][424]LogEditorTransaction: Undo Create Pin Link
+[2023.06.25-22.43.41:766][464]LogEditorTransaction: Undo Move Node
+[2023.06.25-22.44.08:881][975]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.06.25-22.44.11:452][199]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.06.25-22.44.11:455][199]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.06.25-22.48.25:668][430]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.25-22.48.26:013][430]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] This blueprint (self) is not a A_IdleWalk_C, therefore ' Target ' must have a connection.
+[2023.06.25-22.48.26:013][430]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] This blueprint (self) is not a A_IdleWalk_C, therefore ' Target ' must have a connection.
+[2023.06.25-22.48.26:014][430]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] Variable node  Set IsAiming  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.06.25-22.48.26:014][430]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] Variable node  Set IsAiming  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.06.25-22.48.26:082][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.06.25-22.49.09:278][756]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.25-22.49.09:282][756]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] This blueprint (self) is not a A_IdleWalk_C, therefore ' Target ' must have a connection.
+[2023.06.25-22.49.09:282][756]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] This blueprint (self) is not a A_IdleWalk_C, therefore ' Target ' must have a connection.
+[2023.06.25-22.49.09:282][756]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] Variable node  Set IsAiming  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.06.25-22.49.09:282][756]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] Variable node  Set IsAiming  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.06.25-22.49.09:344][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.06.25-22.49.25:753][637]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.25-22.49.25:756][637]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] This blueprint (self) is not a A_IdleWalk_C, therefore ' Target ' must have a connection.
+[2023.06.25-22.49.25:756][637]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] This blueprint (self) is not a A_IdleWalk_C, therefore ' Target ' must have a connection.
+[2023.06.25-22.49.25:756][637]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] Variable node  Set IsAiming  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.06.25-22.49.25:757][637]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] Variable node  Set IsAiming  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.06.25-22.49.25:815][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.06.25-22.50.12:038][933]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.25-22.50.12:107][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.06.25-22.50.14:015][144]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.25-22.50.14:211][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPS_Character" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset" SILENT=true
+[2023.06.25-22.50.14:221][144]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FPS_Character
+[2023.06.25-22.50.14:221][144]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_Character9E4AC0664EA8C75119E8D9B8A1C5C7CE.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset'
+[2023.06.25-22.50.14:227][144]LogFileHelpers: InternalPromptForCheckoutAndSave took 211 ms (total: 11.7 sec)
+[2023.06.25-22.50.14:235][144]AssetCheck: New page: Asset Save: BP_FPS_Character
+[2023.06.25-22.50.14:235][144]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character
+[2023.06.25-22.50.16:488][246]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.25-22.50.16:494][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.25-22.50.16:494][246]PIE: New page: PIE session: MO_Level (26 cze 2023, 02:50:16)
+[2023.06.25-22.50.16:494][246]LogPlayLevel: Creating play world package: /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.25-22.50.17:336][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.843038s)
+[2023.06.25-22.50.17:336][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularBuildingSet/MO_Level.MO_Level to /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level (0.843069s)
+[2023.06.25-22.50.17:336][246]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-22.50.17:337][246]LogAIModule: Creating AISystem for world MO_Level
+[2023.06.25-22.50.17:341][246]LogPlayLevel: PIE: World Init took: (0.005005s)
+[2023.06.25-22.50.17:381][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.06.25-22.50.17:384][246]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2023.06.25-22.50.17:384][246]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.25-22.50.17:384][246]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.25-22.50.17:384][246]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.25-22.50.17:384][246]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.25-22.50.17:384][246]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.25-22.50.17:384][246]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.25-22.50.17:384][246]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.25-22.50.17:384][246]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.25-22.50.17:384][246]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.25-22.50.17:384][246]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.25-22.50.17:384][246]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.25-22.50.17:386][246]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.25-22.50.17:400][246]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Philips UH202( Stereo ))
+[2023.06.25-22.50.17:401][246]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.25-22.50.17:401][246]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.25-22.50.17:401][246]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.25-22.50.17:401][246]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2023.06.25-22.50.17:401][246]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2023.06.25-22.50.17:403][246]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2023.06.25-22.50.17:403][246]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2023.06.25-22.50.17:403][246]LogInit: FAudioDevice initialized.
+[2023.06.25-22.50.17:403][246]LogAudio: Display: Audio Device (ID: 33) registered with world 'MO_Level'.
+[2023.06.25-22.50.17:416][246]LogLoad: Game class is 'BP_FPS_C'
+[2023.06.25-22.50.17:831][246]LogWorld: Bringing World /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level up for play (max tick rate 0) at 2023.06.26-00.50.17
+[2023.06.25-22.50.17:836][246]LogWorld: Bringing up level for play took: 0.419777
+[2023.06.25-22.50.17:839][246]LogOnline: OSS: Created online subsystem instance for: :Context_126
+[2023.06.25-22.50.17:848][246]PIE: Server logged in
+[2023.06.25-22.50.17:849][246]PIE: Play in editor total start time 1,355 seconds.
+[2023.06.25-22.50.20:856][255]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimationBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-22.50.20:856][255]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimationBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-22.50.22:182][264]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimationBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-22.50.23:171][273]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimationBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-22.50.24:377][284]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimationBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-22.50.24:704][287]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimationBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-22.50.24:962][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.25-22.50.24:962][289]LogWorld: BeginTearingDown for /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.25-22.50.24:969][289]LogWorld: UWorld::CleanupWorld for MO_Level, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-22.50.25:005][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-22.50.25:169][289]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.25-22.50.25:185][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-22.50.25:263][289]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.25-22.50.25:263][289]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.06.25-22.50.25:265][289]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2023.06.25-22.50.25:269][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.25-22.50.25:341][289]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.06.25-22.50.25:535][290]LogPlayLevel: Display: Destroying online subsystem :Context_126
+[2023.06.25-22.51.07:652][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.06.25-22.51.07:659][497]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ModularBuildingSet/MO_Level' took 0.046
+[2023.06.25-22.51.07:660][497]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Animation/A_IdleWalk] ([2] browsable assets)...
+[2023.06.25-22.51.07:769][497]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk]
+[2023.06.25-22.51.07:769][497]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/A_IdleWalk]
+[2023.06.25-22.51.07:809][497]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/A_IdleWalk_Auto8
+[2023.06.25-22.51.07:809][497]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/A_IdleWalk_Auto8E33F7DC44EF7637B4D7123B2F35E7F17.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/Autosaves/Game/Animation/A_IdleWalk_Auto8.uasset'
+[2023.06.25-22.51.07:810][497]LogFileHelpers: Auto-saving content packages took 0.150
+[2023.06.25-22.51.47:788][644]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk
+[2023.06.25-22.51.47:789][644]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-22.51.47:827][644]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-22.51.47:846][644]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_95:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.25-22.51.48:868][644]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-22.51.49:082][644]LogViewport: Scene viewport resized to 476x413, mode Windowed.
+[2023.06.25-22.51.49:243][644]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.06.25-22.51.54:476][674]LogSlate: Window 'A_IdleWalk' being destroyed
+[2023.06.25-22.51.54:505][674]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-22.51.54:505][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-22.51.54:550][674]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-22.51.54:550][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-22.51.54:634][674]LogWorld: UWorld::CleanupWorld for World_96, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-22.51.54:634][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-22.51.56:179][687]LogSlate: Window 'Message Log' being destroyed
+[2023.06.25-22.51.56:321][687]LogSlate: Window 'Message Log' being destroyed
+[2023.06.25-22.52.07:032][549]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.25-22.52.07:108][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.06.25-22.52.10:276][895]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.25-22.52.10:281][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.25-22.52.10:281][895]PIE: New page: PIE session: MO_Level (26 cze 2023, 02:52:10)
+[2023.06.25-22.52.10:282][895]LogPlayLevel: Creating play world package: /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.25-22.52.11:148][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.865926s)
+[2023.06.25-22.52.11:148][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularBuildingSet/MO_Level.MO_Level to /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level (0.865961s)
+[2023.06.25-22.52.11:148][895]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-22.52.11:149][895]LogAIModule: Creating AISystem for world MO_Level
+[2023.06.25-22.52.11:154][895]LogPlayLevel: PIE: World Init took: (0.006352s)
+[2023.06.25-22.52.11:194][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.06.25-22.52.11:196][895]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2023.06.25-22.52.11:196][895]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.25-22.52.11:196][895]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.25-22.52.11:196][895]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.25-22.52.11:196][895]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.25-22.52.11:196][895]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.25-22.52.11:196][895]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.25-22.52.11:196][895]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.25-22.52.11:196][895]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.25-22.52.11:197][895]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.25-22.52.11:197][895]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.25-22.52.11:197][895]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.25-22.52.11:199][895]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.25-22.52.11:213][895]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Philips UH202( Stereo ))
+[2023.06.25-22.52.11:213][895]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.25-22.52.11:213][895]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.25-22.52.11:213][895]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.25-22.52.11:214][895]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2023.06.25-22.52.11:214][895]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2023.06.25-22.52.11:215][895]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2023.06.25-22.52.11:216][895]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2023.06.25-22.52.11:216][895]LogInit: FAudioDevice initialized.
+[2023.06.25-22.52.11:216][895]LogAudio: Display: Audio Device (ID: 34) registered with world 'MO_Level'.
+[2023.06.25-22.52.11:269][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.25-22.52.11:272][895]LogLoad: Game class is 'BP_FPS_C'
+[2023.06.25-22.52.11:683][895]LogWorld: Bringing World /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level up for play (max tick rate 0) at 2023.06.26-00.52.11
+[2023.06.25-22.52.11:689][895]LogWorld: Bringing up level for play took: 0.417120
+[2023.06.25-22.52.11:691][895]LogOnline: OSS: Created online subsystem instance for: :Context_130
+[2023.06.25-22.52.11:702][895]PIE: Server logged in
+[2023.06.25-22.52.11:703][895]PIE: Play in editor total start time 1,422 seconds.
+[2023.06.25-22.52.11:872][895]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.06.25-22.52.21:391][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.25-22.52.21:391][944]LogWorld: BeginTearingDown for /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.25-22.52.21:485][944]LogSlate: Window 'FirstPersonShooter Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5)' being destroyed
+[2023.06.25-22.52.21:516][944]LogWorld: UWorld::CleanupWorld for MO_Level, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-22.52.21:557][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-22.52.21:562][944]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.25-22.52.21:578][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-22.52.21:655][944]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.06.25-22.52.21:657][944]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2023.06.25-22.52.21:733][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.06.25-22.52.21:755][945]LogPlayLevel: Display: Destroying online subsystem :Context_130
+[2023.06.25-22.53.59:532][378]LogBlueprint: Warning: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] Variable AnimationBlueprint is marked as 'Expose on Spawn' but not marked as 'Instance Editable'; please make it 'Instance Editable'
+[2023.06.25-22.54.15:050][ 50]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.25-22.54.15:051][ 50]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.25-22.54.15:051][ 50]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.25-22.59.57:901][821]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk
+[2023.06.25-22.59.57:902][821]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-22.59.57:923][821]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-22.59.57:944][821]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_98:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.25-22.59.59:098][821]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-22.59.59:319][821]LogViewport: Scene viewport resized to 476x413, mode Windowed.
+[2023.06.25-22.59.59:432][821]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.06.25-23.01.48:844][647]BlueprintLog: New page: Compile A_IdleWalk
+[2023.06.25-23.01.48:940][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.06.25-23.01.53:442][681]BlueprintLog: New page: Compile A_IdleWalk
+[2023.06.25-23.01.53:584][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.06.25-23.01.54:833][691]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.25-23.01.55:210][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/A_IdleWalk" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset" SILENT=true
+[2023.06.25-23.01.55:255][691]LogSavePackage: Moving output files for package: /Game/Animation/A_IdleWalk
+[2023.06.25-23.01.55:256][691]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/A_IdleWalk04ED44534B0831BEDCA636BE6286FC83.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset'
+[2023.06.25-23.01.55:264][691]LogFileHelpers: InternalPromptForCheckoutAndSave took 430 ms (total: 12.2 sec)
+[2023.06.25-23.01.55:274][691]AssetCheck: New page: Asset Save: A_IdleWalk
+[2023.06.25-23.01.55:274][691]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk
+[2023.06.25-23.01.56:932][706]LogSlate: Window 'A_IdleWalk' being destroyed
+[2023.06.25-23.01.56:953][706]LogWorld: UWorld::CleanupWorld for World_97, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-23.01.56:953][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-23.01.56:996][706]LogWorld: UWorld::CleanupWorld for World_98, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-23.01.56:996][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-23.01.57:092][706]LogWorld: UWorld::CleanupWorld for World_99, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-23.01.57:092][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-23.02.06:402][778]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.25-23.02.06:408][778]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.06.25-23.02.06:409][778]LogPlayLevel: [PlayLevel] Compiling BP_FPS_Character before play...
+[2023.06.25-23.02.06:411][778]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] This blueprint (self) is not a A_IdleWalk_C, therefore ' Target ' must have a connection.
+[2023.06.25-23.02.06:411][778]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] This blueprint (self) is not a A_IdleWalk_C, therefore ' Target ' must have a connection.
+[2023.06.25-23.02.06:412][778]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] Variable node  Set IsAiming  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.06.25-23.02.06:412][778]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] Variable node  Set IsAiming  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.06.25-23.02.06:530][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.06.25-23.02.06:539][778]LogPlayLevel: PlayLevel: Blueprint regeneration took 131 ms (1 blueprints)
+[2023.06.25-23.02.06:539][778]BlueprintLog: Warning: Blueprint failed to compile:  BP_FPS_Character
+[2023.06.25-23.02.10:779][778]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.06.25-23.02.13:405][ 79]LogSlate: Window 'Message Log' being destroyed
+[2023.06.25-23.02.13:412][ 79]LogSlate: Window 'Message Log' being destroyed
+[2023.06.25-23.03.08:323][324]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.25-23.03.08:389][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.06.25-23.03.10:309][527]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.25-23.03.10:922][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPS_Character" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset" SILENT=true
+[2023.06.25-23.03.10:932][527]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FPS_Character
+[2023.06.25-23.03.10:933][527]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_Character72BADACD4674A467EF0C5B883EA60C4A.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset'
+[2023.06.25-23.03.10:939][527]LogFileHelpers: InternalPromptForCheckoutAndSave took 631 ms (total: 12.8 sec)
+[2023.06.25-23.03.10:948][527]AssetCheck: New page: Asset Save: BP_FPS_Character
+[2023.06.25-23.03.10:948][527]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character
+[2023.06.25-23.03.19:621][633]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.25-23.03.19:627][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.25-23.03.19:627][633]PIE: New page: PIE session: MO_Level (26 cze 2023, 03:03:19)
+[2023.06.25-23.03.19:627][633]LogPlayLevel: Creating play world package: /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.25-23.03.20:463][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.834639s)
+[2023.06.25-23.03.20:463][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularBuildingSet/MO_Level.MO_Level to /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level (0.834667s)
+[2023.06.25-23.03.20:463][633]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-23.03.20:463][633]LogAIModule: Creating AISystem for world MO_Level
+[2023.06.25-23.03.20:468][633]LogPlayLevel: PIE: World Init took: (0.004929s)
+[2023.06.25-23.03.20:507][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.06.25-23.03.20:510][633]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2023.06.25-23.03.20:510][633]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.25-23.03.20:510][633]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.25-23.03.20:510][633]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.25-23.03.20:510][633]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.25-23.03.20:510][633]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.25-23.03.20:510][633]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.25-23.03.20:510][633]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.25-23.03.20:510][633]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.25-23.03.20:511][633]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.25-23.03.20:511][633]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.25-23.03.20:511][633]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.25-23.03.20:513][633]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.25-23.03.20:527][633]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Philips UH202( Stereo ))
+[2023.06.25-23.03.20:528][633]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.25-23.03.20:528][633]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.25-23.03.20:528][633]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.25-23.03.20:528][633]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2023.06.25-23.03.20:528][633]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2023.06.25-23.03.20:530][633]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2023.06.25-23.03.20:530][633]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2023.06.25-23.03.20:530][633]LogInit: FAudioDevice initialized.
+[2023.06.25-23.03.20:530][633]LogAudio: Display: Audio Device (ID: 35) registered with world 'MO_Level'.
+[2023.06.25-23.03.20:545][633]LogLoad: Game class is 'BP_FPS_C'
+[2023.06.25-23.03.20:963][633]LogWorld: Bringing World /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level up for play (max tick rate 0) at 2023.06.26-01.03.20
+[2023.06.25-23.03.20:970][633]LogWorld: Bringing up level for play took: 0.425267
+[2023.06.25-23.03.20:973][633]LogOnline: OSS: Created online subsystem instance for: :Context_134
+[2023.06.25-23.03.20:982][633]PIE: Server logged in
+[2023.06.25-23.03.20:983][633]PIE: Play in editor total start time 1,356 seconds.
+[2023.06.25-23.03.23:394][641]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-23.03.23:394][641]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-23.03.25:678][656]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-23.03.26:680][663]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-23.03.27:100][666]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-23.03.27:100][666]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-23.03.27:665][670]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-23.03.28:082][673]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property AnimBlueprint". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-23.03.29:482][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.25-23.03.29:482][682]LogWorld: BeginTearingDown for /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.25-23.03.29:489][682]LogWorld: UWorld::CleanupWorld for MO_Level, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-23.03.29:524][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-23.03.29:894][682]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.25-23.03.29:911][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-23.03.29:984][682]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.25-23.03.29:984][682]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2023.06.25-23.03.29:985][682]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2023.06.25-23.03.29:989][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.25-23.03.30:075][682]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.06.25-23.03.30:324][683]LogPlayLevel: Display: Destroying online subsystem :Context_134
+[2023.06.25-23.03.58:942][ 10]LogSlate: Window 'Message Log' being destroyed
+[2023.06.25-23.03.58:952][ 10]LogSlate: Window 'Message Log' being destroyed
+[2023.06.25-23.04.12:203][565]LogBlueprint: Warning: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] Variable AnimBlueprint is marked as 'Expose on Spawn' but not marked as 'Instance Editable'; please make it 'Instance Editable'
+[2023.06.25-23.04.14:602][842]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.25-23.04.14:602][842]LogBlueprint: Warning: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] Variable AnimBlueprint is marked as 'Expose on Spawn' but not marked as 'Instance Editable'; please make it 'Instance Editable'
+[2023.06.25-23.04.14:603][842]LogBlueprint: Warning: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] Variable AnimBlueprint is marked as 'Expose on Spawn' but not marked as 'Instance Editable'; please make it 'Instance Editable'
+[2023.06.25-23.04.14:674][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.06.25-23.04.57:500][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.06.25-23.04.57:506][154]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ModularBuildingSet/MO_Level' took 0.044
+[2023.06.25-23.04.57:507][154]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_FPS_Character] ([2] browsable assets)...
+[2023.06.25-23.04.58:225][154]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character]
+[2023.06.25-23.04.58:225][154]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_FPS_Character]
+[2023.06.25-23.04.58:235][154]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_FPS_Character_Auto9
+[2023.06.25-23.04.58:235][154]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_Character_Auto994637DF44DAA4061D6DA0EA708226032.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/Autosaves/Game/Blueprints/BP_FPS_Character_Auto9.uasset'
+[2023.06.25-23.04.58:236][154]LogFileHelpers: Auto-saving content packages took 0.729
+[2023.06.25-23.05.35:204][413]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk
+[2023.06.25-23.05.35:205][413]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-23.05.35:477][413]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-23.05.35:509][413]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_101:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.25-23.05.36:345][413]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-23.05.36:595][413]LogViewport: Scene viewport resized to 476x413, mode Windowed.
+[2023.06.25-23.05.36:677][413]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.06.25-23.09.06:564][280]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.06.25-23.09.10:836][302]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.06.25-23.09.11:090][302]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.06.25-23.09.51:356][602]BlueprintLog: New page: Compile A_IdleWalk
+[2023.06.25-23.09.51:798][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.06.25-23.09.56:967][641]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.25-23.09.57:332][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/A_IdleWalk" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset" SILENT=true
+[2023.06.25-23.09.57:375][641]LogSavePackage: Moving output files for package: /Game/Animation/A_IdleWalk
+[2023.06.25-23.09.57:377][641]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/A_IdleWalk41E93775481AB9646EB414BD0D7CEB0D.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset'
+[2023.06.25-23.09.57:386][641]LogFileHelpers: InternalPromptForCheckoutAndSave took 419 ms (total: 13.2 sec)
+[2023.06.25-23.09.57:395][641]AssetCheck: New page: Asset Save: A_IdleWalk
+[2023.06.25-23.09.57:395][641]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk
+[2023.06.25-23.09.59:233][656]LogSlate: Window 'A_IdleWalk' being destroyed
+[2023.06.25-23.09.59:255][656]LogWorld: UWorld::CleanupWorld for World_100, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-23.09.59:255][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-23.09.59:297][656]LogWorld: UWorld::CleanupWorld for World_101, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-23.09.59:297][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-23.09.59:403][656]LogWorld: UWorld::CleanupWorld for World_102, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-23.09.59:403][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-23.10.28:605][154]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk
+[2023.06.25-23.10.28:605][154]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-23.10.28:631][154]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-23.10.28:664][154]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_104:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.25-23.10.29:376][154]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-23.10.29:633][154]LogViewport: Scene viewport resized to 476x413, mode Windowed.
+[2023.06.25-23.10.29:673][154]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.06.25-23.10.42:223][229]BlueprintLog: New page: Compile A_IdleWalk
+[2023.06.25-23.10.42:358][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.06.25-23.10.44:063][238]LogViewport: Scene viewport resized to 475x424, mode Windowed.
+[2023.06.25-23.10.44:332][240]LogViewport: Scene viewport resized to 476x413, mode Windowed.
+[2023.06.25-23.10.44:957][257]LogSlate: Window 'A_IdleWalk' being destroyed
+[2023.06.25-23.11.11:491][540]BlueprintLog: New page: Compile A_IdleWalk
+[2023.06.25-23.11.11:590][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.06.25-23.11.24:612][323]BlueprintLog: New page: Compile A_IdleWalk
+[2023.06.25-23.11.24:704][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.06.25-23.12.12:244][364]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.25-23.12.12:638][364]LogBlueprint: Warning: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] 'A Idle Walk' does not inherit from 'Actor' ( Cast To A_IdleWalk  would always fail).
+[2023.06.25-23.12.12:639][364]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] This blueprint (self) is not a AnimInstance, therefore ' Target ' must have a connection.
+[2023.06.25-23.12.12:639][364]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] This blueprint (self) is not a A_IdleWalk_C, therefore ' Target ' must have a connection.
+[2023.06.25-23.12.12:639][364]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] This blueprint (self) is not a A_IdleWalk_C, therefore ' Target ' must have a connection.
+[2023.06.25-23.12.12:641][364]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] Variable node  Set IsAiming  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.06.25-23.12.12:641][364]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] Variable node  Set IsAiming  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.06.25-23.12.12:726][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.06.25-23.12.47:227][965]LogShaderCompilers: Display: ================================================
+[2023.06.25-23.12.47:227][965]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.25-23.12.47:227][965]LogShaderCompilers: Display: Total job queries 367, among them cache hits 60 (16.35%)
+[2023.06.25-23.12.47:227][965]LogShaderCompilers: Display: Tracking 301 distinct input hashes that result in 166 distinct outputs (55.15%)
+[2023.06.25-23.12.47:227][965]LogShaderCompilers: Display: RAM used: 0.60 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.04%
+[2023.06.25-23.12.47:227][965]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.25-23.12.47:227][965]LogShaderCompilers: Display: Shaders Compiled: 2
+[2023.06.25-23.12.47:227][965]LogShaderCompilers: Display: Jobs assigned 8, completed 2 (25.00%)
+[2023.06.25-23.12.47:227][965]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 0.12 s
+[2023.06.25-23.12.47:227][965]LogShaderCompilers: Display: Job execution time: average 2.98 s, max 3.10 s
+[2023.06.25-23.12.47:227][965]LogShaderCompilers: Display: Job life time (pending + execution): average 3.09 s, max 3.19
+[2023.06.25-23.12.47:227][965]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.21 s
+[2023.06.25-23.12.47:235][965]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.06.25-23.12.47:235][965]LogShaderCompilers: Display: Average processing rate: 0.62 jobs/sec
+[2023.06.25-23.12.47:235][965]LogShaderCompilers: Display: Total thread time: 1.01 s
+[2023.06.25-23.12.47:235][965]LogShaderCompilers: Display: Total thread preprocess time: 0.09 s
+[2023.06.25-23.12.47:235][965]LogShaderCompilers: Display: Percentage time preprocessing: 9.28%
+[2023.06.25-23.12.47:235][965]LogShaderCompilers: Display: Effective parallelization: 0.32 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.06.25-23.12.47:235][965]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.06.25-23.12.47:235][965]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.51 sec, max 0.52 sec, min 0.49 sec)
+[2023.06.25-23.12.47:235][965]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.06.25-23.12.47:235][965]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    2 times, average 0.51 sec, max 0.52 sec, min 0.49 sec)
+[2023.06.25-23.12.47:235][965]LogShaderCompilers: Display: ================================================
+[2023.06.25-23.13.04:777][847]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.25-23.13.04:811][847]LogBlueprint: Warning: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] 'A Idle Walk' does not inherit from 'Skeletal Mesh Component' ( Cast To A_IdleWalk  would always fail).
+[2023.06.25-23.13.04:812][847]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] This blueprint (self) is not a A_IdleWalk_C, therefore ' Target ' must have a connection.
+[2023.06.25-23.13.04:812][847]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] This blueprint (self) is not a A_IdleWalk_C, therefore ' Target ' must have a connection.
+[2023.06.25-23.13.04:814][847]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] Variable node  Set IsAiming  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.06.25-23.13.04:814][847]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] Variable node  Set IsAiming  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.06.25-23.13.04:887][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.06.25-23.13.33:370][143]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.25-23.13.33:404][143]LogBlueprint: Warning: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] 'A Idle Walk' does not inherit from 'Actor' ( Cast To A_IdleWalk  would always fail).
+[2023.06.25-23.13.33:404][143]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] This blueprint (self) is not a A_IdleWalk_C, therefore ' Target ' must have a connection.
+[2023.06.25-23.13.33:405][143]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] This blueprint (self) is not a A_IdleWalk_C, therefore ' Target ' must have a connection.
+[2023.06.25-23.13.33:407][143]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] Variable node  Set IsAiming  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.06.25-23.13.33:407][143]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] Variable node  Set IsAiming  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.06.25-23.13.33:482][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.06.25-23.14.26:584][252]BlueprintLog: New page: Compile A_IdleWalk
+[2023.06.25-23.14.26:615][252]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Animation\A_IdleWalk.uasset: [Compiler] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2023.06.25-23.14.26:616][252]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Animation\A_IdleWalk.uasset: [Compiler] Variable node  Get Mesh  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.06.25-23.14.26:685][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.06.25-23.15.10:550][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.06.25-23.15.10:554][610]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ModularBuildingSet/MO_Level' took 0.050
+[2023.06.25-23.15.10:555][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_FPS_Character] ([2] browsable assets)...
+[2023.06.25-23.15.10:709][610]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character]
+[2023.06.25-23.15.10:709][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_FPS_Character]
+[2023.06.25-23.15.10:720][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_FPS_Character_Auto0
+[2023.06.25-23.15.10:720][610]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_Character_Auto01184D95C403150DFE03A71807714ADE5.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/Autosaves/Game/Blueprints/BP_FPS_Character_Auto0.uasset'
+[2023.06.25-23.15.10:721][610]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Animation/A_IdleWalk] ([2] browsable assets)...
+[2023.06.25-23.15.10:740][610]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk]
+[2023.06.25-23.15.10:740][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/A_IdleWalk]
+[2023.06.25-23.15.10:782][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/A_IdleWalk_Auto0
+[2023.06.25-23.15.10:782][610]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/A_IdleWalk_Auto0C4A38F234A0089FC0A7DAFB9B15C2664.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/Autosaves/Game/Animation/A_IdleWalk_Auto0.uasset'
+[2023.06.25-23.15.10:783][610]LogFileHelpers: Auto-saving content packages took 0.228
+[2023.06.25-23.15.29:466][292]BlueprintLog: New page: Compile A_IdleWalk
+[2023.06.25-23.15.29:553][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.06.25-23.16.32:030][141]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.25-23.16.32:068][141]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] This blueprint (self) is not a A_IdleWalk_C, therefore ' Target ' must have a connection.
+[2023.06.25-23.16.32:068][141]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] This blueprint (self) is not a A_IdleWalk_C, therefore ' Target ' must have a connection.
+[2023.06.25-23.16.32:070][141]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] Variable node  Set IsAiming  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.06.25-23.16.32:070][141]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] Variable node  Set IsAiming  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.06.25-23.16.32:148][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.06.25-23.17.32:408][901]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.25-23.17.32:446][901]LogBlueprint: Warning: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] 'BP FPS Character' does not inherit from 'Anim Instance' ( Cast To BP_FPS_Character  would always fail).
+[2023.06.25-23.17.32:446][901]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] This blueprint (self) is not a A_IdleWalk_C, therefore ' Target ' must have a connection.
+[2023.06.25-23.17.32:446][901]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] This blueprint (self) is not a A_IdleWalk_C, therefore ' Target ' must have a connection.
+[2023.06.25-23.17.32:448][901]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] Variable node  Set IsAiming  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.06.25-23.17.32:448][901]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] Variable node  Set IsAiming  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.06.25-23.17.32:528][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.06.25-23.17.51:704][217]LogDerivedDataCache: C:/Users/majao/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.044 and deleted 0 files with total size 0 MiB. Scanned 10965 files in 3207 folders with total size 2606 MiB.
+[2023.06.25-23.18.37:466][741]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.25-23.18.37:499][741]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] This blueprint (self) is not a A_IdleWalk_C, therefore ' Target ' must have a connection.
+[2023.06.25-23.18.37:500][741]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] This blueprint (self) is not a A_IdleWalk_C, therefore ' Target ' must have a connection.
+[2023.06.25-23.18.37:501][741]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] Variable node  Set IsAiming  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.06.25-23.18.37:502][741]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] Variable node  Set IsAiming  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.06.25-23.18.37:583][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.06.25-23.19.25:459][146]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.25-23.19.25:576][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.06.25-23.19.30:010][456]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.25-23.19.30:016][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.25-23.19.30:016][456]PIE: New page: PIE session: MO_Level (26 cze 2023, 03:19:30)
+[2023.06.25-23.19.30:017][456]LogPlayLevel: Creating play world package: /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.25-23.19.30:864][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.847597s)
+[2023.06.25-23.19.30:864][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularBuildingSet/MO_Level.MO_Level to /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level (0.847634s)
+[2023.06.25-23.19.30:864][456]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-23.19.30:865][456]LogAIModule: Creating AISystem for world MO_Level
+[2023.06.25-23.19.30:869][456]LogPlayLevel: PIE: World Init took: (0.004872s)
+[2023.06.25-23.19.30:918][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.06.25-23.19.30:921][456]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2023.06.25-23.19.30:921][456]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.25-23.19.30:921][456]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.25-23.19.30:921][456]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.25-23.19.30:921][456]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.25-23.19.30:921][456]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.25-23.19.30:921][456]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.25-23.19.30:921][456]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.25-23.19.30:921][456]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.25-23.19.30:922][456]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.25-23.19.30:922][456]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.25-23.19.30:922][456]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.25-23.19.30:924][456]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.25-23.19.30:939][456]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Philips UH202( Stereo ))
+[2023.06.25-23.19.30:939][456]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.25-23.19.30:939][456]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.25-23.19.30:939][456]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.25-23.19.30:940][456]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2023.06.25-23.19.30:940][456]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2023.06.25-23.19.30:941][456]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2023.06.25-23.19.30:942][456]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2023.06.25-23.19.30:942][456]LogInit: FAudioDevice initialized.
+[2023.06.25-23.19.30:942][456]LogAudio: Display: Audio Device (ID: 36) registered with world 'MO_Level'.
+[2023.06.25-23.19.30:950][456]LogLoad: Game class is 'BP_FPS_C'
+[2023.06.25-23.19.31:360][456]LogWorld: Bringing World /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level up for play (max tick rate 0) at 2023.06.26-01.19.31
+[2023.06.25-23.19.31:366][456]LogWorld: Bringing up level for play took: 0.415621
+[2023.06.25-23.19.31:368][456]LogOnline: OSS: Created online subsystem instance for: :Context_142
+[2023.06.25-23.19.31:377][456]PIE: Server logged in
+[2023.06.25-23.19.31:378][456]PIE: Play in editor total start time 1,361 seconds.
+[2023.06.25-23.19.34:086][464]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property idlewalk". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-23.19.34:086][464]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property idlewalk". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-23.19.35:844][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property idlewalk". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-23.19.36:827][481]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property idlewalk". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-23.19.37:201][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.25-23.19.37:201][483]LogWorld: BeginTearingDown for /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.25-23.19.37:207][483]LogWorld: UWorld::CleanupWorld for MO_Level, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-23.19.37:242][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-23.19.37:528][483]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.25-23.19.37:545][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-23.19.37:600][483]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.25-23.19.37:600][483]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2023.06.25-23.19.37:601][483]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2023.06.25-23.19.37:605][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.25-23.19.37:713][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.06.25-23.19.38:039][484]LogPlayLevel: Display: Destroying online subsystem :Context_142
+[2023.06.25-23.21.20:220][830]LogSlate: Window 'Message Log' being destroyed
+[2023.06.25-23.21.20:396][830]LogSlate: Window 'Message Log' being destroyed
+[2023.06.25-23.21.52:854][218]LogEditorTransaction: Undo Create Pin Link
+[2023.06.25-23.21.52:973][218]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_104:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.25-23.22.03:429][359]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.25-23.22.03:699][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPS_Character" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset" SILENT=true
+[2023.06.25-23.22.03:709][359]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FPS_Character
+[2023.06.25-23.22.03:710][359]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_Character4CEF9754486A5253CED301A570C4831A.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset'
+[2023.06.25-23.22.03:717][359]LogFileHelpers: InternalPromptForCheckoutAndSave took 288 ms (total: 13.5 sec)
+[2023.06.25-23.22.03:726][359]AssetCheck: New page: Asset Save: BP_FPS_Character
+[2023.06.25-23.22.03:726][359]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character
+[2023.06.25-23.22.12:714][735]BlueprintLog: New page: Compile A_IdleWalk
+[2023.06.25-23.22.12:803][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.06.25-23.27.09:376][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.06.25-23.27.09:379][459]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ModularBuildingSet/MO_Level' took 0.053
+[2023.06.25-23.27.09:380][459]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_FPS_Character] ([2] browsable assets)...
+[2023.06.25-23.27.09:828][459]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character]
+[2023.06.25-23.27.09:828][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_FPS_Character]
+[2023.06.25-23.27.09:838][459]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_FPS_Character_Auto1
+[2023.06.25-23.27.09:839][459]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_Character_Auto15294FC5A427AAFDA61C0AA8B337F9AC8.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/Autosaves/Game/Blueprints/BP_FPS_Character_Auto1.uasset'
+[2023.06.25-23.27.09:840][459]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Animation/A_IdleWalk] ([2] browsable assets)...
+[2023.06.25-23.27.09:859][459]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk]
+[2023.06.25-23.27.09:859][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/A_IdleWalk]
+[2023.06.25-23.27.09:900][459]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/A_IdleWalk_Auto1
+[2023.06.25-23.27.09:900][459]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/A_IdleWalk_Auto190DB2D5C47906BADD78CF1A9DBBB14E1.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/Autosaves/Game/Animation/A_IdleWalk_Auto1.uasset'
+[2023.06.25-23.27.09:901][459]LogFileHelpers: Auto-saving content packages took 0.522
+[2023.06.25-23.33.02:669][119]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.25-23.33.02:799][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.06.25-23.33.05:855][426]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.25-23.33.06:026][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPS_Character" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset" SILENT=true
+[2023.06.25-23.33.06:037][426]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FPS_Character
+[2023.06.25-23.33.06:038][426]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_Character3F386E8C452D6E18607886A1A3E843D6.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset'
+[2023.06.25-23.33.06:046][426]LogFileHelpers: InternalPromptForCheckoutAndSave took 190 ms (total: 13.7 sec)
+[2023.06.25-23.33.06:055][426]AssetCheck: New page: Asset Save: BP_FPS_Character
+[2023.06.25-23.33.06:055][426]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character
+[2023.06.25-23.33.09:047][571]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.25-23.33.09:169][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/A_IdleWalk" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset" SILENT=true
+[2023.06.25-23.33.09:210][571]LogSavePackage: Moving output files for package: /Game/Animation/A_IdleWalk
+[2023.06.25-23.33.09:211][571]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/A_IdleWalk82ED1A2D4450D6C3D27AE086E3AB5EE2.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset'
+[2023.06.25-23.33.09:219][571]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 13.9 sec)
+[2023.06.25-23.33.09:228][571]AssetCheck: New page: Asset Save: A_IdleWalk
+[2023.06.25-23.33.09:228][571]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk
+[2023.06.25-23.33.10:372][590]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.25-23.33.10:378][590]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.25-23.33.10:378][590]PIE: New page: PIE session: MO_Level (26 cze 2023, 03:33:10)
+[2023.06.25-23.33.10:378][590]LogPlayLevel: Creating play world package: /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.25-23.33.11:237][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.859744s)
+[2023.06.25-23.33.11:237][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularBuildingSet/MO_Level.MO_Level to /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level (0.859776s)
+[2023.06.25-23.33.11:238][590]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-23.33.11:238][590]LogAIModule: Creating AISystem for world MO_Level
+[2023.06.25-23.33.11:242][590]LogPlayLevel: PIE: World Init took: (0.004253s)
+[2023.06.25-23.33.11:296][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.06.25-23.33.11:299][590]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2023.06.25-23.33.11:299][590]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.25-23.33.11:299][590]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.25-23.33.11:299][590]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.25-23.33.11:299][590]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.25-23.33.11:299][590]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.25-23.33.11:299][590]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.25-23.33.11:299][590]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.25-23.33.11:299][590]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.25-23.33.11:300][590]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.25-23.33.11:300][590]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.25-23.33.11:300][590]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.25-23.33.11:302][590]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.25-23.33.11:316][590]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Philips UH202( Stereo ))
+[2023.06.25-23.33.11:317][590]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.25-23.33.11:317][590]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.25-23.33.11:317][590]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.25-23.33.11:317][590]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2023.06.25-23.33.11:317][590]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2023.06.25-23.33.11:320][590]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2023.06.25-23.33.11:320][590]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2023.06.25-23.33.11:320][590]LogInit: FAudioDevice initialized.
+[2023.06.25-23.33.11:320][590]LogAudio: Display: Audio Device (ID: 37) registered with world 'MO_Level'.
+[2023.06.25-23.33.11:329][590]LogLoad: Game class is 'BP_FPS_C'
+[2023.06.25-23.33.11:751][590]LogWorld: Bringing World /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level up for play (max tick rate 0) at 2023.06.26-01.33.11
+[2023.06.25-23.33.11:756][590]LogWorld: Bringing up level for play took: 0.426972
+[2023.06.25-23.33.11:758][590]LogOnline: OSS: Created online subsystem instance for: :Context_143
+[2023.06.25-23.33.11:768][590]PIE: Server logged in
+[2023.06.25-23.33.11:768][590]PIE: Play in editor total start time 1,391 seconds.
+[2023.06.25-23.33.13:976][595]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ABP". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-23.33.14:162][596]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ABP". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-23.33.15:418][604]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ABP". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-23.33.16:784][613]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ABP". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-23.33.20:816][640]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ABP". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-23.33.21:494][646]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ABP". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-23.33.21:852][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.25-23.33.21:852][649]LogWorld: BeginTearingDown for /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.25-23.33.21:858][649]LogWorld: UWorld::CleanupWorld for MO_Level, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-23.33.21:892][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-23.33.22:058][649]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.25-23.33.22:075][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-23.33.22:131][649]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.25-23.33.22:132][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2023.06.25-23.33.22:133][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2023.06.25-23.33.22:138][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.25-23.33.22:245][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.06.25-23.33.22:434][650]LogPlayLevel: Display: Destroying online subsystem :Context_143
+[2023.06.25-23.33.26:107][673]LogSlate: Window 'Message Log' being destroyed
+[2023.06.25-23.33.26:250][673]LogSlate: Window 'Message Log' being destroyed
+[2023.06.25-23.33.45:955][752]LogSlate: Window 'Message Log' being destroyed
+[2023.06.25-23.33.45:961][752]LogSlate: Window 'Message Log' being destroyed
+[2023.06.25-23.34.03:356][727]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.25-23.34.03:481][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.06.25-23.34.15:525][892]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.25-23.34.15:533][892]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.25-23.34.15:533][892]PIE: New page: PIE session: MO_Level (26 cze 2023, 03:34:15)
+[2023.06.25-23.34.15:533][892]LogPlayLevel: Creating play world package: /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.25-23.34.16:363][892]LogPlayLevel: PIE: StaticDuplicateObject took: (0.829688s)
+[2023.06.25-23.34.16:363][892]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularBuildingSet/MO_Level.MO_Level to /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level (0.829727s)
+[2023.06.25-23.34.16:363][892]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-23.34.16:364][892]LogAIModule: Creating AISystem for world MO_Level
+[2023.06.25-23.34.16:368][892]LogPlayLevel: PIE: World Init took: (0.004899s)
+[2023.06.25-23.34.16:418][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.06.25-23.34.16:421][892]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2023.06.25-23.34.16:421][892]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.25-23.34.16:421][892]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.25-23.34.16:421][892]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.25-23.34.16:421][892]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.25-23.34.16:421][892]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.25-23.34.16:421][892]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.25-23.34.16:421][892]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.25-23.34.16:421][892]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.25-23.34.16:421][892]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.25-23.34.16:421][892]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.25-23.34.16:421][892]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.25-23.34.16:423][892]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.25-23.34.16:437][892]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Philips UH202( Stereo ))
+[2023.06.25-23.34.16:437][892]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.25-23.34.16:437][892]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.25-23.34.16:437][892]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.25-23.34.16:438][892]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2023.06.25-23.34.16:438][892]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2023.06.25-23.34.16:439][892]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2023.06.25-23.34.16:439][892]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2023.06.25-23.34.16:439][892]LogInit: FAudioDevice initialized.
+[2023.06.25-23.34.16:439][892]LogAudio: Display: Audio Device (ID: 38) registered with world 'MO_Level'.
+[2023.06.25-23.34.16:454][892]LogLoad: Game class is 'BP_FPS_C'
+[2023.06.25-23.34.16:863][892]LogWorld: Bringing World /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level up for play (max tick rate 0) at 2023.06.26-01.34.16
+[2023.06.25-23.34.16:869][892]LogWorld: Bringing up level for play took: 0.415670
+[2023.06.25-23.34.16:871][892]LogOnline: OSS: Created online subsystem instance for: :Context_144
+[2023.06.25-23.34.16:881][892]PIE: Server logged in
+[2023.06.25-23.34.16:881][892]PIE: Play in editor total start time 1,348 seconds.
+[2023.06.25-23.34.20:169][903]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ABP". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-23.34.20:169][903]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ABP". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-23.34.22:625][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ABP". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-23.34.23:469][923]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ABP". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-23.34.29:661][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.25-23.34.29:661][965]LogWorld: BeginTearingDown for /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.25-23.34.29:668][965]LogWorld: UWorld::CleanupWorld for MO_Level, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-23.34.29:701][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-23.34.29:913][965]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.25-23.34.29:931][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-23.34.30:019][965]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.25-23.34.30:020][965]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2023.06.25-23.34.30:022][965]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2023.06.25-23.34.30:025][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.25-23.34.30:100][965]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2023.06.25-23.34.30:303][966]LogPlayLevel: Display: Destroying online subsystem :Context_144
+[2023.06.25-23.34.33:761][990]LogSlate: Window 'Message Log' being destroyed
+[2023.06.25-23.34.33:875][990]LogSlate: Window 'Message Log' being destroyed
+[2023.06.25-23.37.57:725][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.06.25-23.37.57:729][722]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ModularBuildingSet/MO_Level' took 0.050
+[2023.06.25-23.37.57:729][722]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_FPS_Character] ([2] browsable assets)...
+[2023.06.25-23.37.58:021][722]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character]
+[2023.06.25-23.37.58:021][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_FPS_Character]
+[2023.06.25-23.37.58:031][722]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_FPS_Character_Auto2
+[2023.06.25-23.37.58:031][722]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_Character_Auto20D76737E49EF869FC5F7FC9D3935CC73.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/Autosaves/Game/Blueprints/BP_FPS_Character_Auto2.uasset'
+[2023.06.25-23.37.58:032][722]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Animation/A_IdleWalk] ([2] browsable assets)...
+[2023.06.25-23.37.58:049][722]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk]
+[2023.06.25-23.37.58:050][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/A_IdleWalk]
+[2023.06.25-23.37.58:091][722]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/A_IdleWalk_Auto2
+[2023.06.25-23.37.58:092][722]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/A_IdleWalk_Auto2DA2EBC3F4331370F6415ED87C8DB18DC.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/Autosaves/Game/Animation/A_IdleWalk_Auto2.uasset'
+[2023.06.25-23.37.58:093][722]LogFileHelpers: Auto-saving content packages took 0.363
+[2023.06.25-23.39.26:782][724]BlueprintLog: New page: Compile A_IdleWalk
+[2023.06.25-23.39.26:891][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.06.25-23.39.28:038][796]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.25-23.39.28:121][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/A_IdleWalk" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset" SILENT=true
+[2023.06.25-23.39.28:166][796]LogSavePackage: Moving output files for package: /Game/Animation/A_IdleWalk
+[2023.06.25-23.39.28:167][796]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/A_IdleWalk4969C32C412CAD14F0E35AA7FAE4D5FB.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset'
+[2023.06.25-23.39.28:175][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 14.0 sec)
+[2023.06.25-23.39.28:186][796]AssetCheck: New page: Asset Save: A_IdleWalk
+[2023.06.25-23.39.28:186][796]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk
+[2023.06.25-23.39.45:726][537]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.25-23.39.45:862][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.06.25-23.39.49:459][924]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.25-23.39.49:680][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPS_Character" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset" SILENT=true
+[2023.06.25-23.39.49:690][924]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FPS_Character
+[2023.06.25-23.39.49:691][924]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_Character53348CB3494A5006BD2F51A5D4413312.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset'
+[2023.06.25-23.39.49:699][924]LogFileHelpers: InternalPromptForCheckoutAndSave took 240 ms (total: 14.2 sec)
+[2023.06.25-23.39.49:707][924]AssetCheck: New page: Asset Save: BP_FPS_Character
+[2023.06.25-23.39.49:707][924]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character
+[2023.06.25-23.39.51:073][943]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.25-23.39.51:079][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.25-23.39.51:079][943]PIE: New page: PIE session: MO_Level (26 cze 2023, 03:39:51)
+[2023.06.25-23.39.51:080][943]LogPlayLevel: Creating play world package: /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.25-23.39.51:940][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.860608s)
+[2023.06.25-23.39.51:940][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularBuildingSet/MO_Level.MO_Level to /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level (0.860639s)
+[2023.06.25-23.39.51:941][943]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-23.39.51:941][943]LogAIModule: Creating AISystem for world MO_Level
+[2023.06.25-23.39.51:946][943]LogPlayLevel: PIE: World Init took: (0.005666s)
+[2023.06.25-23.39.51:997][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.06.25-23.39.52:000][943]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2023.06.25-23.39.52:000][943]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.25-23.39.52:000][943]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.25-23.39.52:000][943]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.25-23.39.52:000][943]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.25-23.39.52:000][943]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.25-23.39.52:000][943]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.25-23.39.52:000][943]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.25-23.39.52:000][943]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.25-23.39.52:001][943]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.25-23.39.52:001][943]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.25-23.39.52:001][943]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.25-23.39.52:003][943]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.25-23.39.52:017][943]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Philips UH202( Stereo ))
+[2023.06.25-23.39.52:018][943]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.25-23.39.52:018][943]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.25-23.39.52:018][943]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.25-23.39.52:018][943]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2023.06.25-23.39.52:018][943]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2023.06.25-23.39.52:020][943]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2023.06.25-23.39.52:020][943]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2023.06.25-23.39.52:020][943]LogInit: FAudioDevice initialized.
+[2023.06.25-23.39.52:020][943]LogAudio: Display: Audio Device (ID: 39) registered with world 'MO_Level'.
+[2023.06.25-23.39.52:027][943]LogLoad: Game class is 'BP_FPS_C'
+[2023.06.25-23.39.52:464][943]LogWorld: Bringing World /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level up for play (max tick rate 0) at 2023.06.26-01.39.52
+[2023.06.25-23.39.52:471][943]LogWorld: Bringing up level for play took: 0.443685
+[2023.06.25-23.39.52:473][943]LogOnline: OSS: Created online subsystem instance for: :Context_145
+[2023.06.25-23.39.52:483][943]PIE: Server logged in
+[2023.06.25-23.39.52:484][943]PIE: Play in editor total start time 1,404 seconds.
+[2023.06.25-23.39.56:680][952]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ABP". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-23.39.56:680][952]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ABP". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-23.39.58:502][959]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ABP". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-23.40.00:234][965]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ABP". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-23.40.01:063][972]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ABP". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-23.40.02:083][981]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property ABP". Node:  Set IsAiming Graph:  EventGraph Function:  Execute Ubergraph BP FPS Character Blueprint:  BP_FPS_Character
+[2023.06.25-23.40.02:452][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.25-23.40.02:452][984]LogWorld: BeginTearingDown for /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.25-23.40.02:459][984]LogWorld: UWorld::CleanupWorld for MO_Level, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-23.40.02:494][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-23.40.02:658][984]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.25-23.40.02:676][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-23.40.02:761][984]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.25-23.40.02:763][984]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.06.25-23.40.02:764][984]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.06.25-23.40.02:767][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.25-23.40.02:840][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.06.25-23.40.03:039][985]LogPlayLevel: Display: Destroying online subsystem :Context_145
+[2023.06.25-23.40.07:226][ 14]LogSlate: Window 'Message Log' being destroyed
+[2023.06.25-23.40.07:385][ 14]LogSlate: Window 'Message Log' being destroyed
+[2023.06.25-23.40.25:206][511]LogSlate: Window 'Delete Variable' being destroyed
+[2023.06.25-23.41.25:462][778]LogBlueprint: Warning: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Animation\A_IdleWalk.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Event Blueprint Update Animation  and was replaced as a Custom Event!
+[2023.06.25-23.41.27:353][873]LogEditorTransaction: Undo Paste clipboard contents
+[2023.06.25-23.41.27:466][873]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_104:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.25-23.41.40:785][787]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.25-23.41.40:877][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/A_IdleWalk" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset" SILENT=true
+[2023.06.25-23.41.40:917][787]LogSavePackage: Moving output files for package: /Game/Animation/A_IdleWalk
+[2023.06.25-23.41.40:918][787]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/A_IdleWalkCD29D8EB4B784DAC4EFEE3AAE64B6B4C.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset'
+[2023.06.25-23.41.40:927][787]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 14.4 sec)
+[2023.06.25-23.41.40:935][787]AssetCheck: New page: Asset Save: A_IdleWalk
+[2023.06.25-23.41.40:935][787]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk
+[2023.06.25-23.41.42:775][913]BlueprintLog: New page: Compile A_IdleWalk
+[2023.06.25-23.41.42:887][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.06.25-23.45.30:856][323]BlueprintLog: New page: Compile A_IdleWalk
+[2023.06.25-23.45.30:969][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.06.25-23.45.33:081][456]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.25-23.45.33:149][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/A_IdleWalk" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset" SILENT=true
+[2023.06.25-23.45.33:193][456]LogSavePackage: Moving output files for package: /Game/Animation/A_IdleWalk
+[2023.06.25-23.45.33:194][456]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/A_IdleWalkBA53915F4108F481A137118F87A78A62.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset'
+[2023.06.25-23.45.33:203][456]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 14.5 sec)
+[2023.06.25-23.45.33:211][456]AssetCheck: New page: Asset Save: A_IdleWalk
+[2023.06.25-23.45.33:211][456]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk
+[2023.06.25-23.46.31:935][295]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.25-23.46.32:036][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/A_IdleWalk" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset" SILENT=true
+[2023.06.25-23.46.32:081][295]LogSavePackage: Moving output files for package: /Game/Animation/A_IdleWalk
+[2023.06.25-23.46.32:082][295]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/A_IdleWalk9576B5624CA5736998EE77949F44A469.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset'
+[2023.06.25-23.46.32:092][295]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 14.7 sec)
+[2023.06.25-23.46.32:101][295]AssetCheck: New page: Asset Save: A_IdleWalk
+[2023.06.25-23.46.32:101][295]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk
+[2023.06.25-23.48.13:619][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.06.25-23.48.13:622][257]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ModularBuildingSet/MO_Level' took 0.052
+[2023.06.25-23.48.13:623][257]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_FPS_Character] ([2] browsable assets)...
+[2023.06.25-23.48.13:793][257]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character]
+[2023.06.25-23.48.13:793][257]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_FPS_Character]
+[2023.06.25-23.48.13:805][257]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_FPS_Character_Auto3
+[2023.06.25-23.48.13:805][257]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_Character_Auto3A922A47C49B8BEA3F44721811319D938.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/Autosaves/Game/Blueprints/BP_FPS_Character_Auto3.uasset'
+[2023.06.25-23.48.13:807][257]LogFileHelpers: Auto-saving content packages took 0.184
+[2023.06.25-23.48.56:862][845]LogEditorTransaction: Undo Add Node
+[2023.06.25-23.48.56:981][845]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_104:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.25-23.49.27:271][ 68]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.25-23.49.27:394][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.06.25-23.50.06:188][337]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.25-23.50.06:316][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.06.25-23.50.08:071][501]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.25-23.50.08:256][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPS_Character" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset" SILENT=true
+[2023.06.25-23.50.08:267][501]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FPS_Character
+[2023.06.25-23.50.08:268][501]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_Character4015AD4344437872D46B779A5A11A1A7.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset'
+[2023.06.25-23.50.08:276][501]LogFileHelpers: InternalPromptForCheckoutAndSave took 204 ms (total: 14.9 sec)
+[2023.06.25-23.50.08:284][501]AssetCheck: New page: Asset Save: BP_FPS_Character
+[2023.06.25-23.50.08:284][501]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character
+[2023.06.25-23.50.14:800][578]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.25-23.50.14:806][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.25-23.50.14:806][578]PIE: New page: PIE session: MO_Level (26 cze 2023, 03:50:14)
+[2023.06.25-23.50.14:806][578]LogPlayLevel: Creating play world package: /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.25-23.50.15:650][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.844295s)
+[2023.06.25-23.50.15:650][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularBuildingSet/MO_Level.MO_Level to /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level (0.844326s)
+[2023.06.25-23.50.15:650][578]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-23.50.15:651][578]LogAIModule: Creating AISystem for world MO_Level
+[2023.06.25-23.50.15:654][578]LogPlayLevel: PIE: World Init took: (0.004397s)
+[2023.06.25-23.50.15:709][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.06.25-23.50.15:712][578]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2023.06.25-23.50.15:712][578]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.25-23.50.15:712][578]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.25-23.50.15:712][578]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.25-23.50.15:712][578]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.25-23.50.15:712][578]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.25-23.50.15:712][578]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.25-23.50.15:712][578]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.25-23.50.15:712][578]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.25-23.50.15:713][578]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.25-23.50.15:713][578]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.25-23.50.15:713][578]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.25-23.50.15:715][578]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.25-23.50.15:730][578]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Philips UH202( Stereo ))
+[2023.06.25-23.50.15:731][578]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.25-23.50.15:731][578]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.25-23.50.15:731][578]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.25-23.50.15:731][578]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2023.06.25-23.50.15:731][578]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2023.06.25-23.50.15:733][578]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2023.06.25-23.50.15:733][578]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2023.06.25-23.50.15:733][578]LogInit: FAudioDevice initialized.
+[2023.06.25-23.50.15:733][578]LogAudio: Display: Audio Device (ID: 40) registered with world 'MO_Level'.
+[2023.06.25-23.50.15:743][578]LogLoad: Game class is 'BP_FPS_C'
+[2023.06.25-23.50.16:162][578]LogWorld: Bringing World /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level up for play (max tick rate 0) at 2023.06.26-01.50.16
+[2023.06.25-23.50.16:168][578]LogWorld: Bringing up level for play took: 0.424539
+[2023.06.25-23.50.16:170][578]LogOnline: OSS: Created online subsystem instance for: :Context_146
+[2023.06.25-23.50.16:528][578]PIE: Server logged in
+[2023.06.25-23.50.16:529][578]PIE: Play in editor total start time 1,723 seconds.
+[2023.06.25-23.50.28:921][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.25-23.50.28:921][660]LogWorld: BeginTearingDown for /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.25-23.50.28:927][660]LogWorld: UWorld::CleanupWorld for MO_Level, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-23.50.28:960][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-23.50.29:117][660]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.25-23.50.29:134][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-23.50.29:219][660]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.25-23.50.29:220][660]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.06.25-23.50.29:221][660]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.06.25-23.50.29:225][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.25-23.50.29:299][660]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.06.25-23.50.29:379][661]LogPlayLevel: Display: Destroying online subsystem :Context_146
+[2023.06.25-23.50.33:102][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.06.25-23.50.33:110][687]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.25-23.50.33:243][687]LogSavePackage: Moving output files for package: /Game/Assets/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton
+[2023.06.25-23.50.33:244][687]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/SK_Mannequin_Arms_Skeleton1C188BC0415C2CEA575DF28DEB1E6B28.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Assets/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton.uasset'
+[2023.06.25-23.50.33:263][687]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 15.0 sec)
+[2023.06.25-23.50.33:279][687]AssetCheck: New page: Asset Save: SK_Mannequin_Arms_Skeleton
+[2023.06.25-23.50.33:279][687]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Assets/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton.SK_Mannequin_Arms_Skeleton

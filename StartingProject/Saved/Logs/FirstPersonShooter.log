@@ -6046,3 +6046,13 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.26-01.17.27:998][826]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
 [2023.06.26-01.17.28:083][827]LogPlayLevel: Display: Destroying online subsystem :Context_186
 [2023.06.26-01.17.31:841][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.06.26-01.17.51:726][917]LogDerivedDataCache: C:/Users/majao/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.065 and deleted 0 files with total size 0 MiB. Scanned 11226 files in 3465 folders with total size 2632 MiB.
+[2023.06.26-01.18.45:554][ 86]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.06.26-01.18.45:562][ 86]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.06.26-01.18.45:569][ 86]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.06.26-01.18.45:581][ 87]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.06.26-01.18.53:273][154]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Drone
+[2023.06.26-01.18.53:391][154]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.06.26-01.18.55:907][176]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Drone.BP_Drone
+[2023.06.26-01.18.55:907][176]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-01.18.56:552][176]LogViewport: Scene viewport resized to 1141x877, mode Windowed.

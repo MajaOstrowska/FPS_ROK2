@@ -4632,3 +4632,47 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.25-23.50.33:263][687]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 15.0 sec)
 [2023.06.25-23.50.33:279][687]AssetCheck: New page: Asset Save: SK_Mannequin_Arms_Skeleton
 [2023.06.25-23.50.33:279][687]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Assets/Characters/Arms/Mesh/Mannequin/Mesh/SK_Mannequin_Arms_Skeleton.SK_Mannequin_Arms_Skeleton
+[2023.06.25-23.57.07:377][699]LogViewport: Scene viewport resized to 1141x725, mode Windowed.
+[2023.06.25-23.57.33:249][295]Cmd: MODE GRID=0
+[2023.06.25-23.57.42:685][837]Cmd: MODE GRID=1
+[2023.06.25-23.57.44:299][938]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.25-23.57.44:420][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPS_Character" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset" SILENT=true
+[2023.06.25-23.57.44:431][938]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FPS_Character
+[2023.06.25-23.57.44:432][938]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_Character010BA6E146E21AF2814F34963B181580.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset'
+[2023.06.25-23.57.44:445][938]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 15.2 sec)
+[2023.06.25-23.57.44:456][938]AssetCheck: New page: Asset Save: BP_FPS_Character
+[2023.06.25-23.57.44:456][938]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character
+[2023.06.25-23.58.38:316][602]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.25-23.58.38:440][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPS_Character" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset" SILENT=true
+[2023.06.25-23.58.38:451][602]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FPS_Character
+[2023.06.25-23.58.38:452][602]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_Character9A00DC2B4E189CE02B8688A4B8E8BF3F.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset'
+[2023.06.25-23.58.38:465][602]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 15.3 sec)
+[2023.06.25-23.58.38:476][602]AssetCheck: New page: Asset Save: BP_FPS_Character
+[2023.06.25-23.58.38:476][602]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character
+[2023.06.25-23.59.54:043][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.06.25-23.59.54:050][305]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ModularBuildingSet/MO_Level' took 0.057
+[2023.06.25-23.59.54:050][305]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_FPS_Character] ([2] browsable assets)...
+[2023.06.25-23.59.54:338][305]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character]
+[2023.06.25-23.59.54:339][305]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_FPS_Character]
+[2023.06.25-23.59.54:350][305]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_FPS_Character_Auto4
+[2023.06.25-23.59.54:350][305]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_Character_Auto4A05480FA43E399E7504B82BFD9D465EB.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/Autosaves/Game/Blueprints/BP_FPS_Character_Auto4.uasset'
+[2023.06.25-23.59.54:351][305]LogFileHelpers: Auto-saving content packages took 0.302
+[2023.06.26-00.01.23:653][174]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-00.01.23:787][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPS_Character" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset" SILENT=true
+[2023.06.26-00.01.23:798][174]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FPS_Character
+[2023.06.26-00.01.23:799][174]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_Character7B35A4CE48E637366F4281BCC76E6701.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset'
+[2023.06.26-00.01.23:809][174]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 15.5 sec)
+[2023.06.26-00.01.23:817][174]AssetCheck: New page: Asset Save: BP_FPS_Character
+[2023.06.26-00.01.23:817][174]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character
+[2023.06.26-00.01.25:048][259]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.26-00.01.25:198][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.06.26-00.01.26:166][319]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-00.01.26:252][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPS_Character" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset" SILENT=true
+[2023.06.26-00.01.26:263][319]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FPS_Character
+[2023.06.26-00.01.26:263][319]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_Character08EA5A6D45F1EF8C59CA228654BF316A.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset'
+[2023.06.26-00.01.26:271][319]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 15.6 sec)
+[2023.06.26-00.01.26:279][319]AssetCheck: New page: Asset Save: BP_FPS_Character
+[2023.06.26-00.01.26:279][319]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character
+[2023.06.26-00.03.23:676][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.06.26-00.05.49:357][884]LogSlate: Window 'Project Settings' being destroyed
+[2023.06.26-00.05.49:469][884]LogSlate: Window 'Project Settings' being destroyed

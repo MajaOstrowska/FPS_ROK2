@@ -4885,3 +4885,374 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.26-00.11.45:550][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.06.26-00.11.45:642][717]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
 [2023.06.26-00.11.45:738][718]LogPlayLevel: Display: Destroying online subsystem :Context_149
+[2023.06.26-00.14.13:277][179]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2023.06.26-00.14.13:379][179]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2023.06.26-00.14.13:384][179]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2023.06.26-00.14.13:401][180]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2023.06.26-00.14.19:878][234]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> AM_Fire
+[2023.06.26-00.14.19:996][234]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2023.06.26-00.17.16:367][787]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Animation/AM_Fire.AM_Fire
+[2023.06.26-00.17.16:368][787]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-00.17.16:392][787]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-00.17.16:416][787]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_110:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-00.17.17:049][787]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-00.17.17:305][787]LogViewport: Scene viewport resized to 476x413, mode Windowed.
+[2023.06.26-00.17.17:390][787]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.06.26-00.17.43:335][ 18]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2023.06.26-00.17.44:713][ 50]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Arms/Arms_Animations/Arms_Aim_Fire.Arms_Aim_Fire
+[2023.06.26-00.17.52:685][242]LogDerivedDataCache: C:/Users/majao/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.024 and deleted 0 files with total size 0 MiB. Scanned 11127 files in 3368 folders with total size 2613 MiB.
+[2023.06.26-00.17.53:744][267]BlueprintLog: New page: Compile AM_Fire
+[2023.06.26-00.17.53:833][267]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.06.26-00.18.04:113][414]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Arms/Arms_Animations/Arms_Fire.Arms_Fire
+[2023.06.26-00.18.10:683][560]BlueprintLog: New page: Compile AM_Fire
+[2023.06.26-00.18.10:768][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.06.26-00.18.47:130][254]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Assets/Characters/Arms/Arms_Animations/Arms_Fire.Arms_Fire
+[2023.06.26-00.18.47:131][254]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-00.18.47:181][254]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_112:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-00.18.47:329][254]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-00.18.47:615][254]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-00.18.47:636][254]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2023.06.26-00.18.47:654][254]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.06.26-00.19.47:506][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.06.26-00.19.47:512][813]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ModularBuildingSet/MO_Level' took 0.425
+[2023.06.26-00.19.47:514][813]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_FPS_Character] ([2] browsable assets)...
+[2023.06.26-00.19.47:767][813]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character]
+[2023.06.26-00.19.47:767][813]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_FPS_Character]
+[2023.06.26-00.19.47:781][813]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_FPS_Character_Auto5
+[2023.06.26-00.19.47:781][813]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_Character_Auto5F5C631C74465646D39A4C3A515DB51E1.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/Autosaves/Game/Blueprints/BP_FPS_Character_Auto5.uasset'
+[2023.06.26-00.19.47:782][813]LogFileHelpers: Auto-saving content packages took 0.269
+[2023.06.26-00.22.19:254][937]LogWorld: UWorld::CleanupWorld for World_114, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-00.22.19:254][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-00.22.19:271][937]LogWorld: UWorld::CleanupWorld for World_112, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-00.22.19:272][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-00.22.19:410][937]LogWorld: UWorld::CleanupWorld for World_113, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-00.22.19:410][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-00.22.20:751][971]BlueprintLog: New page: Compile AM_Fire
+[2023.06.26-00.22.20:848][971]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.06.26-00.23.01:754][774]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Assets/Characters/Arms/Arms_Animations/Arms_Fire.Arms_Fire
+[2023.06.26-00.23.01:754][774]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-00.23.01:805][774]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_115:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-00.23.01:952][774]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-00.23.02:232][774]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-00.23.02:254][774]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2023.06.26-00.23.02:282][774]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.06.26-00.24.29:508][423]BlueprintLog: New page: Compile AM_Fire
+[2023.06.26-00.24.29:978][423]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.06.26-00.24.38:301][625]BlueprintLog: New page: Compile AM_Fire
+[2023.06.26-00.24.38:385][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.06.26-00.25.30:176][852]LogWorld: UWorld::CleanupWorld for World_109, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-00.25.30:177][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-00.25.30:225][852]LogWorld: UWorld::CleanupWorld for World_110, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-00.25.30:225][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-00.25.30:373][852]LogWorld: UWorld::CleanupWorld for World_111, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-00.25.30:373][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-00.25.31:194][943]LogWorld: UWorld::CleanupWorld for World_117, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-00.25.31:194][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-00.25.31:241][943]LogWorld: UWorld::CleanupWorld for World_115, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-00.25.31:241][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-00.25.31:379][943]LogWorld: UWorld::CleanupWorld for World_116, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-00.25.31:379][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-00.25.35:736][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.06.26-00.25.37:446][ 95]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.26-00.25.37:660][ 95]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Animation/AM_Fire.AM_Fire
+	Asset Type: AnimBlueprint
+[2023.06.26-00.25.39:666][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.06.26-00.25.39:724][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.06.26-00.25.39:777][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.06.26-00.25.47:538][148]LogSlate: Window 'Pick Skeleton' being destroyed
+[2023.06.26-00.25.47:558][148]LogContentBrowser: Deferred new asset file creation: NewAnimMontage
+[2023.06.26-00.25.47:562][148]LogContentBrowser: Creating deferred item: NewAnimMontage
+[2023.06.26-00.25.47:574][149]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimMontage).
+[2023.06.26-00.25.53:800][187]LogContentBrowser: Attempting asset rename: NewAnimMontage -> AM_Fire
+[2023.06.26-00.25.53:896][187]LogContentBrowser: End creating deferred item NewAnimMontage
+[2023.06.26-00.25.55:679][195]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Animation/AM_Fire.AM_Fire
+[2023.06.26-00.25.55:679][195]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-00.25.55:689][195]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_118:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-00.25.55:832][195]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-00.25.56:251][195]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2023.06.26-00.26.26:345][529]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.06.26-00.26.26:940][537]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2023.06.26-00.27.41:724][551]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-00.27.41:921][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/AM_Fire" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/AM_Fire.uasset" SILENT=true
+[2023.06.26-00.27.41:923][551]LogSavePackage: Moving output files for package: /Game/Animation/AM_Fire
+[2023.06.26-00.27.41:923][551]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/AM_FireBFCEE61543D992884501159F3567F263.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/AM_Fire.uasset'
+[2023.06.26-00.27.41:932][551]LogFileHelpers: InternalPromptForCheckoutAndSave took 208 ms (total: 19.3 sec)
+[2023.06.26-00.27.41:941][551]AssetCheck: New page: Asset Save: AM_Fire
+[2023.06.26-00.27.41:941][551]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/Animation/AM_Fire.AM_Fire
+[2023.06.26-00.29.18:487][588]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Arms/Arms_Animations/Arms_Weapon_Up.Arms_Weapon_Up
+[2023.06.26-00.29.18:490][588]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Arms/Arms_Animations/Arms_Weapon_Down.Arms_Weapon_Down
+[2023.06.26-00.29.18:613][588]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Arms/Arms_Animations/Arms_Inspect.Arms_Inspect
+[2023.06.26-00.29.18:613][588]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/Arms/Arms_Animations/Arms_Melee_Attack.Arms_Melee_Attack
+[2023.06.26-00.29.25:738][701]LogSlate: Window 'Slot References' being destroyed
+[2023.06.26-00.30.08:994][256]LogSlate: Window 'Slot References' being destroyed
+[2023.06.26-00.30.26:190][402]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-00.30.26:353][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/AM_Fire" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/AM_Fire.uasset" SILENT=true
+[2023.06.26-00.30.26:354][402]LogSavePackage: Moving output files for package: /Game/Animation/AM_Fire
+[2023.06.26-00.30.26:355][402]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/AM_FireBC54660143D0CAFC9146AEB3023A020D.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/AM_Fire.uasset'
+[2023.06.26-00.30.26:363][402]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 19.5 sec)
+[2023.06.26-00.30.26:378][402]AssetCheck: New page: Asset Save: AM_Fire
+[2023.06.26-00.30.26:378][402]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/Animation/AM_Fire.AM_Fire
+[2023.06.26-00.30.27:639][423]LogWorld: UWorld::CleanupWorld for World_118, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-00.30.27:639][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-00.30.28:118][423]LogWorld: UWorld::CleanupWorld for World_119, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-00.30.28:118][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-00.30.46:315][131]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2023.06.26-00.31.39:750][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2023.06.26-00.31.39:761][ 51]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ModularBuildingSet/MO_Level' took 0.084
+[2023.06.26-00.31.39:761][ 51]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Animation/A_IdleWalk] ([2] browsable assets)...
+[2023.06.26-00.31.39:788][ 51]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk]
+[2023.06.26-00.31.39:788][ 51]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/A_IdleWalk]
+[2023.06.26-00.31.39:831][ 51]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/A_IdleWalk_Auto6
+[2023.06.26-00.31.39:831][ 51]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/A_IdleWalk_Auto6F0F23D9243E959C2127477A99D7E159B.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/Autosaves/Game/Animation/A_IdleWalk_Auto6.uasset'
+[2023.06.26-00.31.39:832][ 51]LogFileHelpers: Auto-saving content packages took 0.071
+[2023.06.26-00.33.27:690][860]LogEditorTransaction: Undo Rename Node
+[2023.06.26-00.33.27:799][860]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_104:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-00.33.28:756][892]LogEditorTransaction: Undo Add Node
+[2023.06.26-00.33.28:866][892]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_104:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-00.35.08:286][736]BlueprintLog: New page: Compile A_IdleWalk
+[2023.06.26-00.35.08:429][736]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.06.26-00.35.35:301][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-00.35.35:416][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/A_IdleWalk" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset" SILENT=true
+[2023.06.26-00.35.35:467][ 86]LogSavePackage: Moving output files for package: /Game/Animation/A_IdleWalk
+[2023.06.26-00.35.35:468][ 86]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/A_IdleWalkCE20B23B4AB48A6F245162BA899B0367.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/A_IdleWalk.uasset'
+[2023.06.26-00.35.35:481][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 19.6 sec)
+[2023.06.26-00.35.35:502][ 86]AssetCheck: New page: Asset Save: A_IdleWalk
+[2023.06.26-00.35.35:502][ 86]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Animation/A_IdleWalk.A_IdleWalk
+[2023.06.26-00.36.38:561][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-00.36.38:740][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPS_Character" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset" SILENT=true
+[2023.06.26-00.36.38:754][ 29]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FPS_Character
+[2023.06.26-00.36.38:755][ 29]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_CharacterAF0705714C749C879B90E78EABABBDE9.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset'
+[2023.06.26-00.36.38:766][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave took 204 ms (total: 19.9 sec)
+[2023.06.26-00.36.38:783][ 29]AssetCheck: New page: Asset Save: BP_FPS_Character
+[2023.06.26-00.36.38:783][ 29]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character
+[2023.06.26-00.37.52:192][580]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.26-00.37.52:457][580]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.06.26-00.38.19:054][270]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.26-00.38.19:059][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.26-00.38.19:060][270]PIE: New page: PIE session: MO_Level (26 cze 2023, 04:38:19)
+[2023.06.26-00.38.19:060][270]LogPlayLevel: Creating play world package: /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.26-00.38.19:920][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.859940s)
+[2023.06.26-00.38.19:920][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularBuildingSet/MO_Level.MO_Level to /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level (0.859985s)
+[2023.06.26-00.38.19:920][270]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-00.38.19:921][270]LogAIModule: Creating AISystem for world MO_Level
+[2023.06.26-00.38.19:925][270]LogPlayLevel: PIE: World Init took: (0.004573s)
+[2023.06.26-00.38.19:984][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.06.26-00.38.19:988][270]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2023.06.26-00.38.19:988][270]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.26-00.38.19:988][270]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.26-00.38.19:988][270]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.26-00.38.19:988][270]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.26-00.38.19:988][270]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.26-00.38.19:989][270]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.26-00.38.19:989][270]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.26-00.38.19:989][270]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.26-00.38.19:989][270]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.26-00.38.19:989][270]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.26-00.38.19:989][270]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.26-00.38.19:991][270]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.26-00.38.20:006][270]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Philips UH202( Stereo ))
+[2023.06.26-00.38.20:006][270]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.26-00.38.20:006][270]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.26-00.38.20:006][270]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.26-00.38.20:007][270]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2023.06.26-00.38.20:007][270]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2023.06.26-00.38.20:009][270]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2023.06.26-00.38.20:009][270]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2023.06.26-00.38.20:009][270]LogInit: FAudioDevice initialized.
+[2023.06.26-00.38.20:009][270]LogAudio: Display: Audio Device (ID: 43) registered with world 'MO_Level'.
+[2023.06.26-00.38.20:018][270]LogLoad: Game class is 'BP_FPS_C'
+[2023.06.26-00.38.20:439][270]LogWorld: Bringing World /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level up for play (max tick rate 0) at 2023.06.26-02.38.20
+[2023.06.26-00.38.20:444][270]LogWorld: Bringing up level for play took: 0.426283
+[2023.06.26-00.38.20:446][270]LogOnline: OSS: Created online subsystem instance for: :Context_162
+[2023.06.26-00.38.20:456][270]PIE: Server logged in
+[2023.06.26-00.38.20:456][270]PIE: Play in editor total start time 1,396 seconds.
+[2023.06.26-00.38.43:602][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-00.38.43:602][455]LogWorld: BeginTearingDown for /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.26-00.38.43:608][455]LogWorld: UWorld::CleanupWorld for MO_Level, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-00.38.43:643][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-00.38.43:824][455]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.26-00.38.43:843][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-00.38.43:900][455]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.26-00.38.43:916][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2023.06.26-00.38.43:918][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2023.06.26-00.38.43:921][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-00.38.44:023][455]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.06.26-00.38.44:108][456]LogPlayLevel: Display: Destroying online subsystem :Context_162
+[2023.06.26-00.38.45:333][462]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Animation/AM_Fire.AM_Fire
+[2023.06.26-00.38.45:334][462]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-00.38.45:344][462]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_120:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-00.38.45:492][462]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-00.38.45:775][462]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2023.06.26-00.38.52:496][666]LogWorld: UWorld::CleanupWorld for World_120, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-00.38.52:496][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-00.38.52:636][666]LogWorld: UWorld::CleanupWorld for World_121, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-00.38.52:636][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-00.39.20:405][693]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Animation/AM_Fire.AM_Fire
+[2023.06.26-00.39.20:405][693]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-00.39.20:576][693]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_122:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-00.39.20:730][693]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-00.39.21:022][693]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2023.06.26-00.39.25:893][857]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.06.26-00.39.26:783][889]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2023.06.26-00.39.33:175][ 64]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-00.39.33:468][ 72]LogWorld: UWorld::CleanupWorld for World_124, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-00.39.33:468][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-00.39.34:478][101]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-00.39.35:708][134]LogWorld: UWorld::CleanupWorld for World_125, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-00.39.35:708][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-00.39.53:051][338]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-00.39.53:953][362]LogWorld: UWorld::CleanupWorld for World_126, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-00.39.53:953][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-00.39.55:245][397]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-00.39.55:658][407]LogWorld: UWorld::CleanupWorld for World_127, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-00.39.55:658][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-00.39.57:629][464]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-00.40.28:411][371]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-00.40.28:570][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/AM_Fire" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/AM_Fire.uasset" SILENT=true
+[2023.06.26-00.40.28:571][371]LogSavePackage: Moving output files for package: /Game/Animation/AM_Fire
+[2023.06.26-00.40.28:572][371]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/AM_FireC3C8DE5B484747B5409E10A83698947F.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/AM_Fire.uasset'
+[2023.06.26-00.40.28:581][371]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 20.0 sec)
+[2023.06.26-00.40.28:591][371]AssetCheck: New page: Asset Save: AM_Fire
+[2023.06.26-00.40.28:591][371]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/Animation/AM_Fire.AM_Fire
+[2023.06.26-00.40.50:340][274]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.26-00.40.50:346][274]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.26-00.40.50:346][274]PIE: New page: PIE session: MO_Level (26 cze 2023, 04:40:50)
+[2023.06.26-00.40.50:347][274]LogPlayLevel: Creating play world package: /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.26-00.40.51:177][274]LogPlayLevel: PIE: StaticDuplicateObject took: (0.830315s)
+[2023.06.26-00.40.51:177][274]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularBuildingSet/MO_Level.MO_Level to /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level (0.830352s)
+[2023.06.26-00.40.51:177][274]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-00.40.51:177][274]LogAIModule: Creating AISystem for world MO_Level
+[2023.06.26-00.40.51:182][274]LogPlayLevel: PIE: World Init took: (0.004120s)
+[2023.06.26-00.40.51:265][274]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2023.06.26-00.40.51:271][274]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2023.06.26-00.40.51:272][274]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.26-00.40.51:272][274]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.26-00.40.51:272][274]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.26-00.40.51:272][274]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.26-00.40.51:272][274]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.26-00.40.51:272][274]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.26-00.40.51:272][274]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.26-00.40.51:272][274]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.26-00.40.51:272][274]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.26-00.40.51:272][274]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.26-00.40.51:272][274]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.26-00.40.51:274][274]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.26-00.40.51:288][274]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Philips UH202( Stereo ))
+[2023.06.26-00.40.51:288][274]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.26-00.40.51:288][274]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.26-00.40.51:288][274]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.26-00.40.51:289][274]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2023.06.26-00.40.51:289][274]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2023.06.26-00.40.51:291][274]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2023.06.26-00.40.51:291][274]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2023.06.26-00.40.51:291][274]LogInit: FAudioDevice initialized.
+[2023.06.26-00.40.51:291][274]LogAudio: Display: Audio Device (ID: 44) registered with world 'MO_Level'.
+[2023.06.26-00.40.51:305][274]LogLoad: Game class is 'BP_FPS_C'
+[2023.06.26-00.40.51:712][274]LogWorld: Bringing World /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level up for play (max tick rate 0) at 2023.06.26-02.40.51
+[2023.06.26-00.40.51:718][274]LogWorld: Bringing up level for play took: 0.411960
+[2023.06.26-00.40.51:720][274]LogOnline: OSS: Created online subsystem instance for: :Context_172
+[2023.06.26-00.40.51:729][274]PIE: Server logged in
+[2023.06.26-00.40.51:729][274]PIE: Play in editor total start time 1,382 seconds.
+[2023.06.26-00.41.28:142][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-00.41.28:142][582]LogWorld: BeginTearingDown for /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.26-00.41.28:148][582]LogWorld: UWorld::CleanupWorld for MO_Level, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-00.41.28:184][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-00.41.28:329][582]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.26-00.41.28:350][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-00.41.28:449][582]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.26-00.41.28:449][582]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2023.06.26-00.41.28:451][582]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2023.06.26-00.41.28:456][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-00.41.28:530][582]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.06.26-00.41.28:612][583]LogPlayLevel: Display: Destroying online subsystem :Context_172
+[2023.06.26-00.41.31:499][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.06.26-00.41.31:508][599]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-00.41.31:709][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPS_Character" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset" SILENT=true
+[2023.06.26-00.41.31:723][599]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FPS_Character
+[2023.06.26-00.41.31:723][599]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_Character868E832A49B8EA86FE22168490FB26CA.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset'
+[2023.06.26-00.41.31:758][599]LogFileHelpers: InternalPromptForCheckoutAndSave took 250 ms (total: 20.3 sec)
+[2023.06.26-00.41.31:770][599]AssetCheck: New page: Asset Save: BP_FPS_Character
+[2023.06.26-00.41.31:770][599]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character
+[2023.06.26-00.43.19:224][112]LogEditorTransaction: Undo Add Node
+[2023.06.26-00.43.19:486][112]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_104:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-00.43.19:495][112]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_122:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-00.43.19:527][112]LogEditorTransaction: Undo Add Node
+[2023.06.26-00.43.19:729][112]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_104:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-00.43.19:731][112]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_122:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-00.43.19:749][112]LogWorld: UWorld::CleanupWorld for World_128, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-00.43.19:749][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-00.43.20:518][113]LogEditorTransaction: Undo Delete current selection
+[2023.06.26-00.43.20:744][113]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_104:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-00.43.20:747][113]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_122:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-00.43.26:687][549]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.26-00.43.26:760][549]LogBlueprint: Error: [AssetLog] C:\Users\majao\Documents\Unreal Projects\MO_FPS_GOOD\FPS_ROK2\StartingProject\Content\Blueprints\BP_FPS_Character.uasset: [Compiler] This blueprint (self) is not a AnimInstance, therefore ' Target ' must have a connection.
+[2023.06.26-00.43.26:857][549]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.06.26-00.43.45:978][ 77]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.26-00.43.46:132][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.06.26-00.43.46:961][132]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-00.43.47:086][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPS_Character" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset" SILENT=true
+[2023.06.26-00.43.47:101][132]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FPS_Character
+[2023.06.26-00.43.47:102][132]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_Character3DC8068A4B41B6BFA03C249033FEBFAF.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset'
+[2023.06.26-00.43.47:113][132]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 20.4 sec)
+[2023.06.26-00.43.47:126][132]AssetCheck: New page: Asset Save: BP_FPS_Character
+[2023.06.26-00.43.47:126][132]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character
+[2023.06.26-00.43.50:319][321]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.26-00.43.50:325][321]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.26-00.43.50:325][321]PIE: New page: PIE session: MO_Level (26 cze 2023, 04:43:50)
+[2023.06.26-00.43.50:326][321]LogPlayLevel: Creating play world package: /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.26-00.43.51:166][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.839580s)
+[2023.06.26-00.43.51:166][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularBuildingSet/MO_Level.MO_Level to /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level (0.839619s)
+[2023.06.26-00.43.51:166][321]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-00.43.51:166][321]LogAIModule: Creating AISystem for world MO_Level
+[2023.06.26-00.43.51:170][321]LogPlayLevel: PIE: World Init took: (0.004346s)
+[2023.06.26-00.43.51:231][321]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2023.06.26-00.43.51:236][321]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2023.06.26-00.43.51:236][321]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.26-00.43.51:236][321]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.26-00.43.51:236][321]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.26-00.43.51:236][321]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.26-00.43.51:236][321]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.26-00.43.51:236][321]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.26-00.43.51:236][321]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.26-00.43.51:236][321]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.26-00.43.51:237][321]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.26-00.43.51:237][321]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.26-00.43.51:237][321]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.26-00.43.51:239][321]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.26-00.43.51:253][321]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Philips UH202( Stereo ))
+[2023.06.26-00.43.51:253][321]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.26-00.43.51:253][321]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.26-00.43.51:253][321]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.26-00.43.51:254][321]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2023.06.26-00.43.51:254][321]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2023.06.26-00.43.51:255][321]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2023.06.26-00.43.51:255][321]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2023.06.26-00.43.51:255][321]LogInit: FAudioDevice initialized.
+[2023.06.26-00.43.51:256][321]LogAudio: Display: Audio Device (ID: 45) registered with world 'MO_Level'.
+[2023.06.26-00.43.51:264][321]LogLoad: Game class is 'BP_FPS_C'
+[2023.06.26-00.43.51:677][321]LogWorld: Bringing World /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level up for play (max tick rate 0) at 2023.06.26-02.43.51
+[2023.06.26-00.43.51:684][321]LogWorld: Bringing up level for play took: 0.419680
+[2023.06.26-00.43.51:686][321]LogOnline: OSS: Created online subsystem instance for: :Context_173
+[2023.06.26-00.43.51:696][321]PIE: Server logged in
+[2023.06.26-00.43.51:696][321]PIE: Play in editor total start time 1,371 seconds.
+[2023.06.26-00.44.27:821][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-00.44.27:821][657]LogWorld: BeginTearingDown for /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.26-00.44.27:827][657]LogWorld: UWorld::CleanupWorld for MO_Level, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-00.44.27:862][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-00.44.28:019][657]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.26-00.44.28:038][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-00.44.28:133][657]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.26-00.44.28:134][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2023.06.26-00.44.28:136][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2023.06.26-00.44.28:139][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-00.44.28:215][657]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.06.26-00.44.28:299][658]LogPlayLevel: Display: Destroying online subsystem :Context_173
+[2023.06.26-00.44.28:730][661]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-00.44.29:217][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.06.26-00.44.31:084][661]LogSavePackage: Moving output files for package: /Game/ModularBuildingSet/MO_Level
+[2023.06.26-00.44.31:085][661]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/MO_Level4C5941AB48DFE7292B53D1B04C309A17.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/ModularBuildingSet/MO_Level.umap'
+[2023.06.26-00.44.31:136][661]LogFileHelpers: Saving map 'MO_Level' took 1.988
+[2023.06.26-00.44.31:144][661]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.41 sec (total: 22.8 sec)
+[2023.06.26-00.44.31:191][661]AssetCheck: New page: Asset Save: MO_Level
+[2023.06.26-00.44.31:191][661]LogContentValidation: Display: Validating /Script/Engine.World /Game/ModularBuildingSet/MO_Level.MO_Level

@@ -5256,3 +5256,302 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.26-00.44.31:144][661]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.41 sec (total: 22.8 sec)
 [2023.06.26-00.44.31:191][661]AssetCheck: New page: Asset Save: MO_Level
 [2023.06.26-00.44.31:191][661]LogContentValidation: Display: Validating /Script/Engine.World /Game/ModularBuildingSet/MO_Level.MO_Level
+[2023.06.26-00.49.40:163][179]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.26-00.49.40:328][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.06.26-00.49.41:169][241]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-00.49.41:270][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPS_Character" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset" SILENT=true
+[2023.06.26-00.49.41:285][241]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FPS_Character
+[2023.06.26-00.49.41:285][241]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_CharacterC940A92A4778B177D0FF72B49BD9BC6E.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset'
+[2023.06.26-00.49.41:294][241]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 23.0 sec)
+[2023.06.26-00.49.41:306][241]AssetCheck: New page: Asset Save: BP_FPS_Character
+[2023.06.26-00.49.41:306][241]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character
+[2023.06.26-00.53.10:962][585]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.26-00.53.11:148][585]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2023.06.26-00.53.42:822][651]LogEditorTransaction: Undo Create Pin Link
+[2023.06.26-00.53.43:083][651]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_104:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-00.53.43:086][651]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_122:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-00.53.59:961][  9]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-00.54.00:145][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPS_Character" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset" SILENT=true
+[2023.06.26-00.54.00:162][  9]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FPS_Character
+[2023.06.26-00.54.00:163][  9]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_Character34BCF9A44225B8870D73C389D46B3E1C.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset'
+[2023.06.26-00.54.00:173][  9]LogFileHelpers: InternalPromptForCheckoutAndSave took 212 ms (total: 23.2 sec)
+[2023.06.26-00.54.00:184][  9]AssetCheck: New page: Asset Save: BP_FPS_Character
+[2023.06.26-00.54.00:184][  9]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character
+[2023.06.26-00.54.19:136][241]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.26-00.54.19:316][241]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2023.06.26-00.54.20:157][294]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-00.54.20:245][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPS_Character" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset" SILENT=true
+[2023.06.26-00.54.20:261][294]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FPS_Character
+[2023.06.26-00.54.20:261][294]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_Character2565AA0942CDB93EBDC1FDA02461C4E1.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset'
+[2023.06.26-00.54.20:272][294]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 23.3 sec)
+[2023.06.26-00.54.20:282][294]AssetCheck: New page: Asset Save: BP_FPS_Character
+[2023.06.26-00.54.20:282][294]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character
+[2023.06.26-00.54.33:260][691]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.26-00.54.33:437][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.06.26-00.54.34:041][736]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-00.54.34:127][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPS_Character" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset" SILENT=true
+[2023.06.26-00.54.34:143][736]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FPS_Character
+[2023.06.26-00.54.34:144][736]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_CharacterE310311C45226DF9BE4AA69C509B1C4E.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset'
+[2023.06.26-00.54.34:154][736]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 23.4 sec)
+[2023.06.26-00.54.34:164][736]AssetCheck: New page: Asset Save: BP_FPS_Character
+[2023.06.26-00.54.34:164][736]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character
+[2023.06.26-00.55.50:788][904]LogTexture: Display: Building textures: /Game/ParagonLtBelica/FX/Textures/Sparks/T_Spark_Soft.T_Spark_Soft (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2023.06.26-00.55.50:790][904]LogTexture: Display: Building textures: /Game/ParagonLtBelica/FX/Textures/Sparks/T_SparkSingle.T_SparkSingle (TFO_AutoDXT, 128x1024 x1x1x1) (Required Memory Estimate: 20.72909 MB), EncodeSpeed: Fast
+[2023.06.26-00.55.50:793][904]LogTexture: Display: Building textures: /Game/ParagonLtBelica/FX/Textures/Sparks/T_SparksPhoto.T_SparksPhoto (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2023.06.26-00.55.50:813][904]LogTexture: Display: Building textures: /Game/ParagonLtBelica/FX/Textures/Debris/T_Debris.T_Debris (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2023.06.26-00.55.50:815][904]LogTexture: Display: Building textures: /Game/ParagonLtBelica/FX/Textures/Debris/T_Debris_Blur.T_Debris_Blur (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2023.06.26-00.55.50:861][904]LogTexture: Display: Building textures: /Game/ParagonLtBelica/FX/Textures/Debris/T_Debris_Blur_A.T_Debris_Blur_A (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2023.06.26-00.55.50:875][904]LogTexture: Display: Building textures: /Game/ParagonLtBelica/FX/Particles/Belica/Abilities/Primary/FX/P_BelicaHitWorld.P_BelicaHitWorld:ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 29.89575 MB), EncodeSpeed: Fast
+[2023.06.26-00.55.50:991][914]LogTexture: Display: Building textures: /Game/ParagonLtBelica/FX/Materials/MaterialFunctions/Textures/Noise/T_AtmosphericCloudNoise01.T_AtmosphericCloudNoise01 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.06.26-00.55.51:087][922]LogTexture: Display: Building textures: /Game/ParagonLtBelica/FX/Textures/Smoke/T_dust_burst_01.T_dust_burst_01 (TFO_AutoDXT, 2048x4096 x1x1x1) (Required Memory Estimate: 576.062468 MB), EncodeSpeed: Fast
+[2023.06.26-00.55.51:325][939]LogTexture: Display: Building textures: /Game/ParagonLtBelica/FX/Textures/Smoke/T_WispySmoke_V2_NRM.T_WispySmoke_V2_NRM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.06.26-00.55.51:372][941]LogTexture: Display: Building textures: /Game/ParagonLtBelica/FX/Textures/Smoke/T_WispySmoke_V2_OCC+Alpha.T_WispySmoke_V2_OCC+Alpha (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.06.26-00.56.20:188][893]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.26-00.56.20:371][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.06.26-00.56.22:103][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-00.56.22:246][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPS_Character" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset" SILENT=true
+[2023.06.26-00.56.22:264][ 23]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FPS_Character
+[2023.06.26-00.56.22:265][ 23]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_Character0565C6304B627159180A4EAD63279732.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset'
+[2023.06.26-00.56.22:276][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 23.6 sec)
+[2023.06.26-00.56.22:287][ 23]AssetCheck: New page: Asset Save: BP_FPS_Character
+[2023.06.26-00.56.22:287][ 23]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character
+[2023.06.26-00.56.23:562][ 60]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.26-00.56.23:568][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.26-00.56.23:568][ 60]PIE: New page: PIE session: MO_Level (26 cze 2023, 04:56:23)
+[2023.06.26-00.56.23:569][ 60]LogPlayLevel: Creating play world package: /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.26-00.56.24:406][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.837275s)
+[2023.06.26-00.56.24:406][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularBuildingSet/MO_Level.MO_Level to /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level (0.837310s)
+[2023.06.26-00.56.24:406][ 60]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-00.56.24:406][ 60]LogAIModule: Creating AISystem for world MO_Level
+[2023.06.26-00.56.24:410][ 60]LogPlayLevel: PIE: World Init took: (0.004402s)
+[2023.06.26-00.56.24:470][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.06.26-00.56.24:474][ 60]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2023.06.26-00.56.24:474][ 60]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.26-00.56.24:474][ 60]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.26-00.56.24:474][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.26-00.56.24:474][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.26-00.56.24:474][ 60]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.26-00.56.24:474][ 60]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.26-00.56.24:474][ 60]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.26-00.56.24:474][ 60]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.26-00.56.24:474][ 60]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.26-00.56.24:474][ 60]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.26-00.56.24:475][ 60]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.26-00.56.24:476][ 60]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.26-00.56.24:491][ 60]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Philips UH202( Stereo ))
+[2023.06.26-00.56.24:491][ 60]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.26-00.56.24:491][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.26-00.56.24:491][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.26-00.56.24:492][ 60]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2023.06.26-00.56.24:492][ 60]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2023.06.26-00.56.24:494][ 60]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2023.06.26-00.56.24:494][ 60]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2023.06.26-00.56.24:494][ 60]LogInit: FAudioDevice initialized.
+[2023.06.26-00.56.24:494][ 60]LogAudio: Display: Audio Device (ID: 46) registered with world 'MO_Level'.
+[2023.06.26-00.56.24:503][ 60]LogLoad: Game class is 'BP_FPS_C'
+[2023.06.26-00.56.24:917][ 60]LogWorld: Bringing World /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level up for play (max tick rate 0) at 2023.06.26-02.56.24
+[2023.06.26-00.56.24:922][ 60]LogWorld: Bringing up level for play took: 0.419591
+[2023.06.26-00.56.24:924][ 60]LogOnline: OSS: Created online subsystem instance for: :Context_174
+[2023.06.26-00.56.24:933][ 60]PIE: Server logged in
+[2023.06.26-00.56.24:934][ 60]PIE: Play in editor total start time 1,366 seconds.
+[2023.06.26-00.56.56:642][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-00.56.56:642][295]LogWorld: BeginTearingDown for /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.26-00.56.56:649][295]LogWorld: UWorld::CleanupWorld for MO_Level, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-00.56.56:685][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-00.56.56:845][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.26-00.56.56:864][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-00.56.56:947][295]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.26-00.56.56:949][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2023.06.26-00.56.56:951][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2023.06.26-00.56.56:955][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-00.56.57:046][295]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2023.06.26-00.56.57:124][296]LogPlayLevel: Display: Destroying online subsystem :Context_174
+[2023.06.26-00.57.23:373][437]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.06.26-00.57.23:382][437]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ModularBuildingSet/MO_Level' took 0.063
+[2023.06.26-00.57.23:382][437]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/AM_Fire] ([1] browsable assets)...
+[2023.06.26-00.57.23:407][437]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Animation/AM_Fire.AM_Fire]
+[2023.06.26-00.57.23:407][437]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/AM_Fire]
+[2023.06.26-00.57.23:409][437]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/AM_Fire_Auto7
+[2023.06.26-00.57.23:409][437]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/AM_Fire_Auto7D9186DB049431B9D72C9AEBEB97BB380.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/Autosaves/Game/Animation/AM_Fire_Auto7.uasset'
+[2023.06.26-00.57.23:410][437]LogFileHelpers: Auto-saving content packages took 0.029
+[2023.06.26-00.57.48:258][512]LogEditorTransaction: Undo Add Node
+[2023.06.26-00.57.48:515][512]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_104:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-00.57.48:524][512]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_122:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-00.57.49:640][562]LogEditorTransaction: Undo Change Enum Pin Value
+[2023.06.26-00.57.49:897][562]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_104:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-00.57.49:899][562]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_122:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.06.26-00.58.13:279][410]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.26-00.58.13:465][410]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.06.26-00.58.14:199][463]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-00.58.14:306][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPS_Character" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset" SILENT=true
+[2023.06.26-00.58.14:324][463]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FPS_Character
+[2023.06.26-00.58.14:325][463]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_Character63671C264186EC98D7E8DD8A36E8CF75.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset'
+[2023.06.26-00.58.14:335][463]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 23.7 sec)
+[2023.06.26-00.58.14:345][463]AssetCheck: New page: Asset Save: BP_FPS_Character
+[2023.06.26-00.58.14:345][463]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character
+[2023.06.26-00.58.15:659][499]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.26-00.58.15:665][499]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.26-00.58.15:665][499]PIE: New page: PIE session: MO_Level (26 cze 2023, 04:58:15)
+[2023.06.26-00.58.15:666][499]LogPlayLevel: Creating play world package: /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.26-00.58.16:507][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.842195s)
+[2023.06.26-00.58.16:507][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularBuildingSet/MO_Level.MO_Level to /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level (0.842224s)
+[2023.06.26-00.58.16:508][499]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-00.58.16:508][499]LogAIModule: Creating AISystem for world MO_Level
+[2023.06.26-00.58.16:513][499]LogPlayLevel: PIE: World Init took: (0.006013s)
+[2023.06.26-00.58.16:577][499]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.06.26-00.58.16:581][499]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2023.06.26-00.58.16:581][499]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.26-00.58.16:581][499]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.26-00.58.16:581][499]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.26-00.58.16:581][499]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.26-00.58.16:581][499]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.26-00.58.16:581][499]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.26-00.58.16:581][499]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.26-00.58.16:581][499]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.26-00.58.16:582][499]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.26-00.58.16:582][499]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.26-00.58.16:582][499]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.26-00.58.16:583][499]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.26-00.58.16:598][499]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Philips UH202( Stereo ))
+[2023.06.26-00.58.16:598][499]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.26-00.58.16:598][499]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.26-00.58.16:598][499]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.26-00.58.16:598][499]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2023.06.26-00.58.16:598][499]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2023.06.26-00.58.16:600][499]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2023.06.26-00.58.16:600][499]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2023.06.26-00.58.16:600][499]LogInit: FAudioDevice initialized.
+[2023.06.26-00.58.16:600][499]LogAudio: Display: Audio Device (ID: 47) registered with world 'MO_Level'.
+[2023.06.26-00.58.16:610][499]LogLoad: Game class is 'BP_FPS_C'
+[2023.06.26-00.58.17:009][499]LogWorld: Bringing World /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level up for play (max tick rate 0) at 2023.06.26-02.58.17
+[2023.06.26-00.58.17:013][499]LogWorld: Bringing up level for play took: 0.403303
+[2023.06.26-00.58.17:015][499]LogOnline: OSS: Created online subsystem instance for: :Context_175
+[2023.06.26-00.58.17:024][499]PIE: Server logged in
+[2023.06.26-00.58.17:025][499]PIE: Play in editor total start time 1,361 seconds.
+[2023.06.26-00.58.46:252][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-00.58.46:252][749]LogWorld: BeginTearingDown for /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.26-00.58.46:259][749]LogWorld: UWorld::CleanupWorld for MO_Level, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-00.58.46:293][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-00.58.46:436][749]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.26-00.58.46:455][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-00.58.46:529][749]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.26-00.58.46:551][749]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2023.06.26-00.58.46:553][749]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2023.06.26-00.58.46:558][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-00.58.46:635][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2023.06.26-00.58.46:713][750]LogPlayLevel: Display: Destroying online subsystem :Context_175
+[2023.06.26-00.59.24:471][892]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.06.26-00.59.24:481][892]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-00.59.24:634][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/AM_Fire" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/AM_Fire.uasset" SILENT=true
+[2023.06.26-00.59.24:636][892]LogSavePackage: Moving output files for package: /Game/Animation/AM_Fire
+[2023.06.26-00.59.24:637][892]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/AM_Fire4126B68248298495B5CA319E8E7D938B.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Animation/AM_Fire.uasset'
+[2023.06.26-00.59.24:657][892]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 23.9 sec)
+[2023.06.26-00.59.24:671][892]AssetCheck: New page: Asset Save: AM_Fire
+[2023.06.26-00.59.24:671][892]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/Animation/AM_Fire.AM_Fire
+[2023.06.26-01.00.22:037][268]LogSlate: Window 'Project Settings' being destroyed
+[2023.06.26-01.00.22:165][268]LogSlate: Window 'Project Settings' being destroyed
+[2023.06.26-01.00.24:947][292]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_FPS.BP_FPS
+[2023.06.26-01.00.24:947][292]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-01.00.28:266][450]LogWorld: UWorld::CleanupWorld for World_129, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-01.00.28:266][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-01.00.28:333][450]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_FPS.BP_FPS
+[2023.06.26-01.00.28:334][450]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-01.00.32:139][728]LogWorld: UWorld::CleanupWorld for World_130, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-01.00.32:139][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-01.00.34:648][797]LogWorld: UWorld::CleanupWorld for World_122, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-01.00.34:648][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-01.00.34:799][797]LogWorld: UWorld::CleanupWorld for World_123, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-01.00.34:799][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-01.01.35:228][737]BlueprintLog: New page: Compile BP_FPS_Character
+[2023.06.26-01.01.35:447][737]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.06.26-01.01.36:575][851]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-01.01.36:641][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPS_Character" FILE="C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset" SILENT=true
+[2023.06.26-01.01.36:659][851]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FPS_Character
+[2023.06.26-01.01.36:660][851]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Saved/BP_FPS_Character0643B75548A3869D3A19F1BE51A6FDEE.tmp' to 'C:/Users/majao/Documents/Unreal Projects/MO_FPS_GOOD/FPS_ROK2/StartingProject/Content/Blueprints/BP_FPS_Character.uasset'
+[2023.06.26-01.01.36:671][851]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 24.0 sec)
+[2023.06.26-01.01.36:681][851]AssetCheck: New page: Asset Save: BP_FPS_Character
+[2023.06.26-01.01.36:681][851]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_FPS_Character.BP_FPS_Character
+[2023.06.26-01.01.39:342][  4]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.26-01.01.39:349][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.26-01.01.39:349][  4]PIE: New page: PIE session: MO_Level (26 cze 2023, 05:01:39)
+[2023.06.26-01.01.39:349][  4]LogPlayLevel: Creating play world package: /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.26-01.01.40:191][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.841839s)
+[2023.06.26-01.01.40:192][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModularBuildingSet/MO_Level.MO_Level to /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level (0.841873s)
+[2023.06.26-01.01.40:192][  4]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-01.01.40:192][  4]LogAIModule: Creating AISystem for world MO_Level
+[2023.06.26-01.01.40:196][  4]LogPlayLevel: PIE: World Init took: (0.004904s)
+[2023.06.26-01.01.40:256][  4]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.06.26-01.01.40:259][  4]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2023.06.26-01.01.40:259][  4]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.26-01.01.40:259][  4]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.26-01.01.40:259][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.26-01.01.40:259][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.26-01.01.40:259][  4]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.26-01.01.40:259][  4]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.26-01.01.40:259][  4]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.26-01.01.40:259][  4]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.26-01.01.40:260][  4]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.26-01.01.40:260][  4]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.26-01.01.40:260][  4]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.26-01.01.40:262][  4]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.26-01.01.40:277][  4]LogAudioMixer: Display: Using Audio Hardware Device Słuchawki (Philips UH202( Stereo ))
+[2023.06.26-01.01.40:277][  4]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.26-01.01.40:277][  4]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.26-01.01.40:277][  4]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.26-01.01.40:277][  4]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2023.06.26-01.01.40:277][  4]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2023.06.26-01.01.40:279][  4]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2023.06.26-01.01.40:279][  4]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2023.06.26-01.01.40:279][  4]LogInit: FAudioDevice initialized.
+[2023.06.26-01.01.40:279][  4]LogAudio: Display: Audio Device (ID: 48) registered with world 'MO_Level'.
+[2023.06.26-01.01.40:288][  4]LogLoad: Game class is 'BP_FPS_C'
+[2023.06.26-01.01.40:712][  4]LogWorld: Bringing World /Game/ModularBuildingSet/UEDPIE_0_MO_Level.MO_Level up for play (max tick rate 0) at 2023.06.26-03.01.40
+[2023.06.26-01.01.40:718][  4]LogWorld: Bringing up level for play took: 0.429146
+[2023.06.26-01.01.40:719][  4]LogOnline: OSS: Created online subsystem instance for: :Context_178
+[2023.06.26-01.01.40:729][  4]PIE: Server logged in
+[2023.06.26-01.01.40:730][  4]PIE: Play in editor total start time 1,38 seconds.
+[2023.06.26-01.01.44:048][ 19]LogShaderCompilers: Display: ================================================
+[2023.06.26-01.01.44:048][ 19]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.26-01.01.44:048][ 19]LogShaderCompilers: Display: Total job queries 436, among them cache hits 76 (17.43%)
+[2023.06.26-01.01.44:048][ 19]LogShaderCompilers: Display: Tracking 360 distinct input hashes that result in 211 distinct outputs (58.61%)
+[2023.06.26-01.01.44:048][ 19]LogShaderCompilers: Display: RAM used: 0.74 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.05%
+[2023.06.26-01.01.44:048][ 19]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.26-01.01.44:048][ 19]LogShaderCompilers: Display: Shaders Compiled: 60
+[2023.06.26-01.01.44:048][ 19]LogShaderCompilers: Display: Jobs assigned 60, completed 60 (100.00%)
+[2023.06.26-01.01.44:048][ 19]LogShaderCompilers: Display: Average time worker was idle: 520.42 s
+[2023.06.26-01.01.44:048][ 19]LogShaderCompilers: Display: Time job spent in pending queue: average 0.81 s, longest 3.39 s
+[2023.06.26-01.01.44:048][ 19]LogShaderCompilers: Display: Job execution time: average 1.38 s, max 3.63 s
+[2023.06.26-01.01.44:048][ 19]LogShaderCompilers: Display: Job life time (pending + execution): average 2.20 s, max 4.20
+[2023.06.26-01.01.44:049][ 19]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.95 s
+[2023.06.26-01.01.44:049][ 19]LogShaderCompilers: Display: Jobs were issued in 60 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.06.26-01.01.44:049][ 19]LogShaderCompilers: Display: Average processing rate: 4.63 jobs/sec
+[2023.06.26-01.01.44:049][ 19]LogShaderCompilers: Display: Total thread time: 52.40 s
+[2023.06.26-01.01.44:049][ 19]LogShaderCompilers: Display: Total thread preprocess time: 4.01 s
+[2023.06.26-01.01.44:049][ 19]LogShaderCompilers: Display: Percentage time preprocessing: 7.65%
+[2023.06.26-01.01.44:049][ 19]LogShaderCompilers: Display: Effective parallelization: 4.04 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.06.26-01.01.44:049][ 19]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.06.26-01.01.44:049][ 19]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 1.46 sec, max 1.69 sec, min 1.23 sec)
+[2023.06.26-01.01.44:049][ 19]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   18 times, average 1.10 sec, max 1.80 sec, min 0.66 sec)
+[2023.06.26-01.01.44:049][ 19]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   16 times, average 0.98 sec, max 1.74 sec, min 0.64 sec)
+[2023.06.26-01.01.44:049][ 19]LogShaderCompilers: Display:                   TBasePassVSFSelfShadowedTranslucencyPolicy (compiled    2 times, average 0.89 sec, max 0.93 sec, min 0.84 sec)
+[2023.06.26-01.01.44:049][ 19]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    2 times, average 0.73 sec, max 0.79 sec, min 0.67 sec)
+[2023.06.26-01.01.44:049][ 19]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.06.26-01.01.44:049][ 19]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 37.65% of total time (compiled   18 times, average 1.10 sec, max 1.80 sec, min 0.66 sec)
+[2023.06.26-01.01.44:049][ 19]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.94% of total time (compiled   16 times, average 0.98 sec, max 1.74 sec, min 0.64 sec)
+[2023.06.26-01.01.44:049][ 19]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.57% of total time (compiled    5 times, average 0.69 sec, max 0.77 sec, min 0.59 sec)
+[2023.06.26-01.01.44:049][ 19]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.57% of total time (compiled    2 times, average 1.46 sec, max 1.69 sec, min 1.23 sec)
+[2023.06.26-01.01.44:049][ 19]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.19% of total time (compiled    5 times, average 0.44 sec, max 0.52 sec, min 0.34 sec)
+[2023.06.26-01.01.44:049][ 19]LogShaderCompilers: Display: ================================================
+[2023.06.26-01.02.01:201][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-01.02.01:201][127]LogWorld: BeginTearingDown for /Game/ModularBuildingSet/UEDPIE_0_MO_Level
+[2023.06.26-01.02.01:207][127]LogWorld: UWorld::CleanupWorld for MO_Level, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-01.02.01:241][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-01.02.01:427][127]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.26-01.02.01:446][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-01.02.01:547][127]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.26-01.02.01:547][127]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2023.06.26-01.02.01:549][127]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2023.06.26-01.02.01:553][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.26-01.02.01:631][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2023.06.26-01.02.01:739][128]LogPlayLevel: Display: Destroying online subsystem :Context_178
+[2023.06.26-01.02.05:289][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
